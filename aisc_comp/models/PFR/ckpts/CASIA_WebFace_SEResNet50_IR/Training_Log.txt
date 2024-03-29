@@ -1,0 +1,996 @@
+20200819-09:20:40 Training Epoch: 1/36
+20200819-09:21:31 Iters:1/100 loss: 24.6338 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 57 mins 50 sec
+20200819-09:22:17 Iters:1/200 loss: 23.2540 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 19 mins 8 sec
+20200819-09:23:03 Iters:1/300 loss: 22.4772 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 3 mins 22 sec
+20200819-09:23:51 Iters:1/400 loss: 21.6039 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 30 mins 43 sec
+20200819-09:24:38 Iters:1/500 loss: 20.6558 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 19 mins 43 sec
+20200819-09:25:25 Iters:1/600 loss: 19.3765 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 12 mins 42 sec
+20200819-09:26:12 Iters:1/700 loss: 19.7525 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 17 mins 1 sec
+20200819-09:26:59 Iters:1/800 loss: 18.0193 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 17 mins 48 sec
+20200819-09:27:46 Iters:1/900 loss: 17.4549 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 13 mins 59 sec
+20200819-09:28:33 Iters:1/1000 loss: 16.5006 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 11 mins 13 sec
+20200819-09:29:15 LFW Average Accuracy: 93.2167%
+20200819-09:29:58 AgeDB-30 Average Accuracy: 75.3667%
+20200819-09:30:47 CFP-FP Average Accuracy: 75.0429%
+20200819-09:30:47 Current Best Test Accuracy: LFW: 93.2167% in iters: 1000, AgeDB-30: 75.3667% in iters: 1000 and CFP-FP: 75.0429% in iters: 1000
+20200819-09:30:47 Saving model: 1000
+20200819-09:31:34 Iters:1/1100 loss: 16.0160 train accuracy:0.0 learning rate:0.05 remaining time:1 days 7 hours 47 mins 38 sec
+20200819-09:32:22 Iters:1/1200 loss: 15.9853 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 13 mins 45 sec
+20200819-09:33:08 Iters:1/1300 loss: 15.1175 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 2 mins 29 sec
+20200819-09:33:55 Iters:1/1400 loss: 14.3958 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 13 mins 33 sec
+20200819-09:34:42 Iters:1/1500 loss: 14.1389 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 9 mins 32 sec
+20200819-09:35:29 Iters:1/1600 loss: 14.0039 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 6 mins 34 sec
+20200819-09:36:16 Iters:1/1700 loss: 13.0660 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 10 mins 26 sec
+20200819-09:36:53 Training Epoch: 2/36
+20200819-09:37:03 Iters:2/1800 loss: 12.8237 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 15 mins 32 sec
+20200819-09:37:50 Iters:2/1900 loss: 12.4125 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 6 mins 23 sec
+20200819-09:38:38 Iters:2/2000 loss: 13.1123 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 7 mins 46 sec
+20200819-09:39:22 LFW Average Accuracy: 96.5667%
+20200819-09:40:04 AgeDB-30 Average Accuracy: 82.8333%
+20200819-09:40:53 CFP-FP Average Accuracy: 83.5000%
+20200819-09:40:53 Current Best Test Accuracy: LFW: 96.5667% in iters: 2000, AgeDB-30: 82.8333% in iters: 2000 and CFP-FP: 83.5000% in iters: 2000
+20200819-09:40:53 Saving model: 2000
+20200819-09:41:39 Iters:2/2100 loss: 11.1321 train accuracy:0.0 learning rate:0.05 remaining time:1 days 7 hours 19 mins 31 sec
+20200819-09:42:27 Iters:2/2200 loss: 12.4986 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 5 mins 33 sec
+20200819-09:43:15 Iters:2/2300 loss: 11.8843 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 14 mins 30 sec
+20200819-09:44:01 Iters:2/2400 loss: 11.8722 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 1 mins 49 sec
+20200819-09:44:49 Iters:2/2500 loss: 10.6299 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 6 mins 46 sec
+20200819-09:45:36 Iters:2/2600 loss: 10.3614 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 11 sec
+20200819-09:46:23 Iters:2/2700 loss: 11.6463 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 59 mins 50 sec
+20200819-09:47:10 Iters:2/2800 loss: 10.9413 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 5 mins 37 sec
+20200819-09:47:58 Iters:2/2900 loss: 10.7777 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 6 mins 19 sec
+20200819-09:48:45 Iters:2/3000 loss: 10.7157 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 1 mins 7 sec
+20200819-09:49:28 LFW Average Accuracy: 97.9167%
+20200819-09:50:11 AgeDB-30 Average Accuracy: 86.0833%
+20200819-09:51:00 CFP-FP Average Accuracy: 86.9571%
+20200819-09:51:00 Current Best Test Accuracy: LFW: 97.9167% in iters: 3000, AgeDB-30: 86.0833% in iters: 3000 and CFP-FP: 86.9571% in iters: 3000
+20200819-09:51:00 Saving model: 3000
+20200819-09:51:47 Iters:2/3100 loss: 10.5419 train accuracy:0.0 learning rate:0.05 remaining time:1 days 6 hours 47 mins 58 sec
+20200819-09:52:34 Iters:2/3200 loss: 10.5126 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 53 mins 56 sec
+20200819-09:53:21 Iters:2/3300 loss: 11.0029 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 57 mins 13 sec
+20200819-09:54:08 Iters:2/3400 loss: 9.9515 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 48 sec
+20200819-09:54:55 Iters:2/3500 loss: 9.2814 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 51 mins 18 sec
+20200819-09:55:23 Training Epoch: 3/36
+20200819-09:55:43 Iters:3/3600 loss: 8.6324 train accuracy:0.0 learning rate:0.05 remaining time:8 hours 22 sec
+20200819-09:56:30 Iters:3/3700 loss: 9.1649 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 52 mins 60 sec
+20200819-09:57:17 Iters:3/3800 loss: 9.6386 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 51 mins 48 sec
+20200819-09:58:03 Iters:3/3900 loss: 9.4612 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 49 mins 58 sec
+20200819-09:58:50 Iters:3/4000 loss: 8.8686 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 50 mins 46 sec
+20200819-09:59:33 LFW Average Accuracy: 98.6333%
+20200819-10:00:15 AgeDB-30 Average Accuracy: 88.1000%
+20200819-10:01:04 CFP-FP Average Accuracy: 88.9143%
+20200819-10:01:04 Current Best Test Accuracy: LFW: 98.6333% in iters: 4000, AgeDB-30: 88.1000% in iters: 4000 and CFP-FP: 88.9143% in iters: 4000
+20200819-10:01:04 Saving model: 4000
+20200819-10:01:51 Iters:3/4100 loss: 8.8319 train accuracy:0.0 learning rate:0.05 remaining time:1 days 6 hours 6 mins 29 sec
+20200819-10:02:38 Iters:3/4200 loss: 8.0518 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 46 mins 54 sec
+20200819-10:03:25 Iters:3/4300 loss: 8.7876 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 48 mins 3 sec
+20200819-10:04:11 Iters:3/4400 loss: 8.7772 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 39 mins 24 sec
+20200819-10:04:58 Iters:3/4500 loss: 9.0695 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 48 mins 22 sec
+20200819-10:05:45 Iters:3/4600 loss: 8.6449 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 41 mins 10 sec
+20200819-10:06:32 Iters:3/4700 loss: 8.8877 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 50 mins 41 sec
+20200819-10:07:19 Iters:3/4800 loss: 8.7821 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 44 mins 33 sec
+20200819-10:08:06 Iters:3/4900 loss: 8.8873 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 42 mins 7 sec
+20200819-10:08:53 Iters:3/5000 loss: 9.0701 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 44 mins 9 sec
+20200819-10:09:36 LFW Average Accuracy: 98.8000%
+20200819-10:10:20 AgeDB-30 Average Accuracy: 89.8000%
+20200819-10:11:10 CFP-FP Average Accuracy: 90.3429%
+20200819-10:11:10 Current Best Test Accuracy: LFW: 98.8000% in iters: 5000, AgeDB-30: 89.8000% in iters: 5000 and CFP-FP: 90.3429% in iters: 5000
+20200819-10:11:10 Saving model: 5000
+20200819-10:11:57 Iters:3/5100 loss: 7.9556 train accuracy:0.0 learning rate:0.05 remaining time:1 days 6 hours 5 mins 38 sec
+20200819-10:12:44 Iters:3/5200 loss: 8.3667 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 42 mins 52 sec
+20200819-10:13:31 Iters:3/5300 loss: 8.0466 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 41 mins 17 sec
+20200819-10:13:50 Training Epoch: 4/36
+20200819-10:14:20 Iters:4/5400 loss: 7.8271 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 52 mins 15 sec
+20200819-10:15:07 Iters:4/5500 loss: 7.6798 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 39 mins 2 sec
+20200819-10:15:54 Iters:4/5600 loss: 8.0988 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 43 mins 34 sec
+20200819-10:16:42 Iters:4/5700 loss: 7.9990 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 42 mins 8 sec
+20200819-10:17:29 Iters:4/5800 loss: 8.4210 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 35 mins 28 sec
+20200819-10:18:15 Iters:4/5900 loss: 7.5582 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 34 mins 56 sec
+20200819-10:19:02 Iters:4/6000 loss: 8.0966 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 32 mins 18 sec
+20200819-10:19:44 LFW Average Accuracy: 98.8333%
+20200819-10:20:28 AgeDB-30 Average Accuracy: 89.2667%
+20200819-10:21:17 CFP-FP Average Accuracy: 90.7000%
+20200819-10:21:17 Current Best Test Accuracy: LFW: 98.8333% in iters: 6000, AgeDB-30: 89.2667% in iters: 6000 and CFP-FP: 90.7000% in iters: 6000
+20200819-10:21:17 Saving model: 6000
+20200819-10:22:04 Iters:4/6100 loss: 8.1009 train accuracy:0.0 learning rate:0.05 remaining time:1 days 5 hours 18 mins 14 sec
+20200819-10:22:51 Iters:4/6200 loss: 8.8747 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 31 mins 39 sec
+20200819-10:23:38 Iters:4/6300 loss: 8.5708 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 31 mins 28 sec
+20200819-10:24:25 Iters:4/6400 loss: 7.5668 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 29 mins 55 sec
+20200819-10:25:11 Iters:4/6500 loss: 7.2803 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 28 mins 25 sec
+20200819-10:25:58 Iters:4/6600 loss: 7.7754 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 30 mins 50 sec
+20200819-10:26:45 Iters:4/6700 loss: 7.7228 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 29 mins 52 sec
+20200819-10:27:32 Iters:4/6800 loss: 8.4635 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 27 mins 29 sec
+20200819-10:28:20 Iters:4/6900 loss: 7.8551 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 32 mins 8 sec
+20200819-10:29:06 Iters:4/7000 loss: 7.7951 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 23 mins 24 sec
+20200819-10:29:48 LFW Average Accuracy: 98.9000%
+20200819-10:30:31 AgeDB-30 Average Accuracy: 90.1833%
+20200819-10:31:21 CFP-FP Average Accuracy: 91.3714%
+20200819-10:31:21 Current Best Test Accuracy: LFW: 98.9000% in iters: 7000, AgeDB-30: 90.1833% in iters: 7000 and CFP-FP: 91.3714% in iters: 7000
+20200819-10:31:21 Saving model: 7000
+20200819-10:32:06 Iters:4/7100 loss: 8.4654 train accuracy:0.0 learning rate:0.05 remaining time:1 days 4 hours 27 mins 42 sec
+20200819-10:32:16 Training Epoch: 5/36
+20200819-10:32:54 Iters:5/7200 loss: 6.8236 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 33 mins 37 sec
+20200819-10:33:41 Iters:5/7300 loss: 7.8899 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 25 mins 27 sec
+20200819-10:34:28 Iters:5/7400 loss: 7.2867 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 23 mins 11 sec
+20200819-10:35:15 Iters:5/7500 loss: 7.8059 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 24 mins 8 sec
+20200819-10:36:02 Iters:5/7600 loss: 7.7903 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 25 mins 32 sec
+20200819-10:36:49 Iters:5/7700 loss: 7.4110 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 16 mins 39 sec
+20200819-10:37:36 Iters:5/7800 loss: 7.2441 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 25 mins 13 sec
+20200819-10:38:24 Iters:5/7900 loss: 8.2492 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 22 mins 6 sec
+20200819-10:39:10 Iters:5/8000 loss: 7.5670 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 17 mins 33 sec
+20200819-10:39:53 LFW Average Accuracy: 98.9167%
+20200819-10:40:35 AgeDB-30 Average Accuracy: 90.1833%
+20200819-10:41:24 CFP-FP Average Accuracy: 89.7571%
+20200819-10:41:24 Current Best Test Accuracy: LFW: 98.9167% in iters: 8000, AgeDB-30: 90.1833% in iters: 8000 and CFP-FP: 91.3714% in iters: 7000
+20200819-10:41:24 Saving model: 8000
+20200819-10:42:12 Iters:5/8100 loss: 8.3910 train accuracy:0.0 learning rate:0.05 remaining time:1 days 4 hours 9 mins 48 sec
+20200819-10:42:59 Iters:5/8200 loss: 6.9080 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 18 mins 50 sec
+20200819-10:43:45 Iters:5/8300 loss: 7.6873 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 8 mins 52 sec
+20200819-10:44:30 Iters:5/8400 loss: 7.1974 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 3 mins 17 sec
+20200819-10:45:17 Iters:5/8500 loss: 7.1087 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 9 mins 23 sec
+20200819-10:46:03 Iters:5/8600 loss: 7.3843 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 11 mins 43 sec
+20200819-10:46:51 Iters:5/8700 loss: 7.1467 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 15 mins 59 sec
+20200819-10:47:38 Iters:5/8800 loss: 7.4381 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 18 mins 11 sec
+20200819-10:48:25 Iters:5/8900 loss: 6.9559 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 12 mins 16 sec
+20200819-10:48:25 Training Epoch: 6/36
+20200819-10:49:13 Iters:6/9000 loss: 7.6190 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 21 mins 38 sec
+20200819-10:49:57 LFW Average Accuracy: 98.8667%
+20200819-10:50:39 AgeDB-30 Average Accuracy: 90.1167%
+20200819-10:51:28 CFP-FP Average Accuracy: 91.9857%
+20200819-10:51:28 Current Best Test Accuracy: LFW: 98.9167% in iters: 8000, AgeDB-30: 90.1167% in iters: 9000 and CFP-FP: 91.9857% in iters: 9000
+20200819-10:51:28 Saving model: 9000
+20200819-10:52:14 Iters:6/9100 loss: 7.3901 train accuracy:0.0 learning rate:0.05 remaining time:1 days 3 hours 33 mins 21 sec
+20200819-10:53:00 Iters:6/9200 loss: 6.8739 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 3 mins 35 sec
+20200819-10:53:47 Iters:6/9300 loss: 7.2793 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 5 mins 35 sec
+20200819-10:54:34 Iters:6/9400 loss: 7.3881 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 10 mins 35 sec
+20200819-10:55:20 Iters:6/9500 loss: 6.6710 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 58 mins 20 sec
+20200819-10:56:06 Iters:6/9600 loss: 6.9235 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 2 mins 8 sec
+20200819-10:56:52 Iters:6/9700 loss: 7.2182 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 49 mins 58 sec
+20200819-10:57:38 Iters:6/9800 loss: 7.0123 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 12 sec
+20200819-10:58:25 Iters:6/9900 loss: 7.9107 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 23 sec
+20200819-10:59:12 Iters:6/10000 loss: 7.3297 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 10 mins 49 sec
+20200819-10:59:55 LFW Average Accuracy: 99.1000%
+20200819-11:00:38 AgeDB-30 Average Accuracy: 91.0833%
+20200819-11:01:26 CFP-FP Average Accuracy: 91.5286%
+20200819-11:01:26 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.0833% in iters: 10000 and CFP-FP: 91.9857% in iters: 9000
+20200819-11:01:26 Saving model: 10000
+20200819-11:02:14 Iters:6/10100 loss: 7.2470 train accuracy:0.0 learning rate:0.05 remaining time:1 days 3 hours 9 mins 41 sec
+20200819-11:03:01 Iters:6/10200 loss: 7.2249 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 2 mins 23 sec
+20200819-11:03:48 Iters:6/10300 loss: 6.8145 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 3 mins 27 sec
+20200819-11:04:35 Iters:6/10400 loss: 7.2702 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 59 mins 23 sec
+20200819-11:05:22 Iters:6/10500 loss: 8.2721 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 6 mins 17 sec
+20200819-11:06:10 Iters:6/10600 loss: 7.7063 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 59 mins 12 sec
+20200819-11:06:47 Training Epoch: 7/36
+20200819-11:06:58 Iters:7/10700 loss: 5.9142 train accuracy:0.0 learning rate:0.05 remaining time:7 hours 7 mins 45 sec
+20200819-11:07:45 Iters:7/10800 loss: 6.5891 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 58 mins 39 sec
+20200819-11:08:31 Iters:7/10900 loss: 6.0217 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 51 mins 10 sec
+20200819-11:09:18 Iters:7/11000 loss: 6.5773 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 55 mins 23 sec
+20200819-11:10:01 LFW Average Accuracy: 99.0833%
+20200819-11:10:43 AgeDB-30 Average Accuracy: 90.9167%
+20200819-11:11:33 CFP-FP Average Accuracy: 91.6000%
+20200819-11:11:33 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 90.9167% in iters: 11000 and CFP-FP: 91.9857% in iters: 9000
+20200819-11:11:33 Saving model: 11000
+20200819-11:12:19 Iters:7/11100 loss: 6.8807 train accuracy:0.0 learning rate:0.05 remaining time:1 days 2 hours 41 mins 54 sec
+20200819-11:13:07 Iters:7/11200 loss: 6.7383 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 54 mins 56 sec
+20200819-11:13:53 Iters:7/11300 loss: 7.1542 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 52 mins 33 sec
+20200819-11:14:40 Iters:7/11400 loss: 7.0418 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 52 mins 34 sec
+20200819-11:15:28 Iters:7/11500 loss: 6.7109 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 53 mins 48 sec
+20200819-11:16:15 Iters:7/11600 loss: 7.6963 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 54 mins 36 sec
+20200819-11:17:02 Iters:7/11700 loss: 6.3122 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 50 mins 21 sec
+20200819-11:17:50 Iters:7/11800 loss: 7.0172 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 54 mins 16 sec
+20200819-11:18:37 Iters:7/11900 loss: 7.1958 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 50 mins 35 sec
+20200819-11:19:24 Iters:7/12000 loss: 7.4851 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 52 mins 21 sec
+20200819-11:20:08 LFW Average Accuracy: 99.0167%
+20200819-11:20:53 AgeDB-30 Average Accuracy: 91.1667%
+20200819-11:21:43 CFP-FP Average Accuracy: 92.2286%
+20200819-11:21:43 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.1667% in iters: 12000 and CFP-FP: 92.2286% in iters: 12000
+20200819-11:21:43 Saving model: 12000
+20200819-11:22:30 Iters:7/12100 loss: 6.9356 train accuracy:0.0 learning rate:0.05 remaining time:1 days 2 hours 48 mins 59 sec
+20200819-11:23:17 Iters:7/12200 loss: 7.2792 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 46 mins 22 sec
+20200819-11:24:04 Iters:7/12300 loss: 7.2370 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 42 mins 51 sec
+20200819-11:24:50 Iters:7/12400 loss: 6.5502 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 41 mins 36 sec
+20200819-11:25:19 Training Epoch: 8/36
+20200819-11:25:38 Iters:8/12500 loss: 6.8657 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 53 mins 31 sec
+20200819-11:26:25 Iters:8/12600 loss: 6.7653 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 43 mins 24 sec
+20200819-11:27:12 Iters:8/12700 loss: 6.5002 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 40 mins 53 sec
+20200819-11:27:59 Iters:8/12800 loss: 5.7457 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 37 mins 11 sec
+20200819-11:28:45 Iters:8/12900 loss: 6.4981 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 37 mins 53 sec
+20200819-11:29:32 Iters:8/13000 loss: 6.5917 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 38 mins 59 sec
+20200819-11:30:15 LFW Average Accuracy: 98.9500%
+20200819-11:30:58 AgeDB-30 Average Accuracy: 91.1333%
+20200819-11:31:48 CFP-FP Average Accuracy: 92.1429%
+20200819-11:31:48 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.1333% in iters: 13000 and CFP-FP: 92.2286% in iters: 12000
+20200819-11:31:48 Saving model: 13000
+20200819-11:32:35 Iters:8/13100 loss: 6.6247 train accuracy:0.0 learning rate:0.05 remaining time:1 days 1 hours 53 mins 46 sec
+20200819-11:33:22 Iters:8/13200 loss: 6.7134 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 40 mins 6 sec
+20200819-11:34:10 Iters:8/13300 loss: 6.9925 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 40 mins 18 sec
+20200819-11:34:57 Iters:8/13400 loss: 6.7142 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 40 mins 28 sec
+20200819-11:35:44 Iters:8/13500 loss: 6.2963 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 38 mins 42 sec
+20200819-11:36:31 Iters:8/13600 loss: 7.2283 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 35 mins 53 sec
+20200819-11:37:18 Iters:8/13700 loss: 7.0975 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 34 mins 28 sec
+20200819-11:38:04 Iters:8/13800 loss: 7.1335 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 22 mins 4 sec
+20200819-11:38:49 Iters:8/13900 loss: 6.6989 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 20 mins 27 sec
+20200819-11:39:37 Iters:8/14000 loss: 7.4205 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 36 mins 56 sec
+20200819-11:40:19 LFW Average Accuracy: 98.8667%
+20200819-11:41:02 AgeDB-30 Average Accuracy: 91.7833%
+20200819-11:41:51 CFP-FP Average Accuracy: 92.4429%
+20200819-11:41:51 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.7833% in iters: 14000 and CFP-FP: 92.4429% in iters: 14000
+20200819-11:41:51 Saving model: 14000
+20200819-11:42:39 Iters:8/14100 loss: 6.7720 train accuracy:0.0 learning rate:0.05 remaining time:1 days 1 hours 13 mins 43 sec
+20200819-11:43:26 Iters:8/14200 loss: 6.6222 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 33 mins 22 sec
+20200819-11:43:45 Training Epoch: 9/36
+20200819-11:44:14 Iters:9/14300 loss: 6.0359 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 38 mins 33 sec
+20200819-11:45:01 Iters:9/14400 loss: 5.8066 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 31 mins 12 sec
+20200819-11:45:49 Iters:9/14500 loss: 6.8552 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 31 mins 46 sec
+20200819-11:46:36 Iters:9/14600 loss: 7.0181 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 29 mins 14 sec
+20200819-11:47:23 Iters:9/14700 loss: 6.6974 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 27 mins 8 sec
+20200819-11:48:10 Iters:9/14800 loss: 6.3217 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 30 mins 4 sec
+20200819-11:48:58 Iters:9/14900 loss: 6.6334 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 28 mins 40 sec
+20200819-11:49:45 Iters:9/15000 loss: 6.4585 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 23 mins 52 sec
+20200819-11:50:28 LFW Average Accuracy: 98.9167%
+20200819-11:51:11 AgeDB-30 Average Accuracy: 91.1000%
+20200819-11:52:01 CFP-FP Average Accuracy: 92.3429%
+20200819-11:52:01 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.1000% in iters: 15000 and CFP-FP: 92.4429% in iters: 14000
+20200819-11:52:01 Saving model: 15000
+20200819-11:52:48 Iters:9/15100 loss: 6.3974 train accuracy:0.0 learning rate:0.05 remaining time:1 days 58 mins 38 sec
+20200819-11:53:36 Iters:9/15200 loss: 7.4269 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 25 mins 10 sec
+20200819-11:54:23 Iters:9/15300 loss: 6.6626 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 25 mins 51 sec
+20200819-11:55:11 Iters:9/15400 loss: 6.6916 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 26 mins 46 sec
+20200819-11:55:58 Iters:9/15500 loss: 6.8129 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 26 mins 4 sec
+20200819-11:56:46 Iters:9/15600 loss: 6.7905 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 24 mins 27 sec
+20200819-11:57:33 Iters:9/15700 loss: 6.6615 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 19 mins 50 sec
+20200819-11:58:20 Iters:9/15800 loss: 7.0859 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 19 mins 50 sec
+20200819-11:59:08 Iters:9/15900 loss: 6.8656 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 20 mins 14 sec
+20200819-11:59:54 Iters:9/16000 loss: 7.1846 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 14 mins 52 sec
+20200819-12:00:37 LFW Average Accuracy: 98.6333%
+20200819-12:01:20 AgeDB-30 Average Accuracy: 91.8833%
+20200819-12:02:09 CFP-FP Average Accuracy: 91.8571%
+20200819-12:02:09 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.8833% in iters: 16000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:02:09 Saving model: 16000
+20200819-12:02:19 Training Epoch: 10/36
+20200819-12:02:57 Iters:10/16100 loss: 5.9762 train accuracy:0.0 learning rate:0.05 remaining time:1 days 20 mins 28 sec
+20200819-12:03:44 Iters:10/16200 loss: 6.2465 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 17 mins 12 sec
+20200819-12:04:31 Iters:10/16300 loss: 6.1250 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 14 mins 39 sec
+20200819-12:05:18 Iters:10/16400 loss: 6.2790 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 13 mins 20 sec
+20200819-12:06:05 Iters:10/16500 loss: 7.0067 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 13 mins 3 sec
+20200819-12:06:53 Iters:10/16600 loss: 6.3389 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 15 mins 32 sec
+20200819-12:07:40 Iters:10/16700 loss: 6.8828 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 11 mins 29 sec
+20200819-12:08:27 Iters:10/16800 loss: 7.2939 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 10 mins 13 sec
+20200819-12:09:15 Iters:10/16900 loss: 6.4620 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 14 mins 44 sec
+20200819-12:10:02 Iters:10/17000 loss: 6.5409 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 10 mins 11 sec
+20200819-12:10:44 LFW Average Accuracy: 98.8833%
+20200819-12:11:27 AgeDB-30 Average Accuracy: 91.0667%
+20200819-12:12:16 CFP-FP Average Accuracy: 92.2714%
+20200819-12:12:16 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.0667% in iters: 17000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:12:16 Saving model: 17000
+20200819-12:13:04 Iters:10/17100 loss: 7.4789 train accuracy:0.0 learning rate:0.05 remaining time:23 hours 44 mins 1 sec
+20200819-12:13:51 Iters:10/17200 loss: 6.8496 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 13 mins 17 sec
+20200819-12:14:39 Iters:10/17300 loss: 7.1321 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 9 mins 51 sec
+20200819-12:15:26 Iters:10/17400 loss: 6.2425 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 4 mins 34 sec
+20200819-12:16:12 Iters:10/17500 loss: 6.6743 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 37 sec
+20200819-12:16:59 Iters:10/17600 loss: 6.5190 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 1 mins 46 sec
+20200819-12:17:46 Iters:10/17700 loss: 6.7569 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 2 mins 29 sec
+20200819-12:18:33 Iters:10/17800 loss: 6.1926 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 5 mins 27 sec
+20200819-12:18:33 Training Epoch: 11/36
+20200819-12:19:21 Iters:11/17900 loss: 5.4898 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 7 mins 14 sec
+20200819-12:20:08 Iters:11/18000 loss: 6.4482 train accuracy:0.0 learning rate:0.05 remaining time:6 hours 1 mins 6 sec
+20200819-12:20:50 LFW Average Accuracy: 98.8500%
+20200819-12:21:33 AgeDB-30 Average Accuracy: 91.6333%
+20200819-12:22:22 CFP-FP Average Accuracy: 91.2429%
+20200819-12:22:22 Current Best Test Accuracy: LFW: 99.1000% in iters: 10000, AgeDB-30: 91.6333% in iters: 18000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:22:22 Saving model: 18000
+20200819-12:23:09 Iters:11/18100 loss: 5.8598 train accuracy:0.0 learning rate:0.05 remaining time:23 hours 9 mins 55 sec
+20200819-12:23:56 Iters:11/18200 loss: 6.2994 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 55 mins 25 sec
+20200819-12:24:42 Iters:11/18300 loss: 6.2887 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 53 mins 56 sec
+20200819-12:25:29 Iters:11/18400 loss: 5.8120 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 55 mins 32 sec
+20200819-12:26:15 Iters:11/18500 loss: 6.3183 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 52 mins 41 sec
+20200819-12:27:02 Iters:11/18600 loss: 6.4624 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 53 mins 46 sec
+20200819-12:27:49 Iters:11/18700 loss: 6.5656 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 54 mins 33 sec
+20200819-12:28:35 Iters:11/18800 loss: 6.3216 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 50 mins 51 sec
+20200819-12:29:23 Iters:11/18900 loss: 7.0192 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 57 mins 11 sec
+20200819-12:30:10 Iters:11/19000 loss: 6.5693 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 54 mins 36 sec
+20200819-12:30:53 LFW Average Accuracy: 99.1500%
+20200819-12:31:36 AgeDB-30 Average Accuracy: 91.6167%
+20200819-12:32:25 CFP-FP Average Accuracy: 90.9286%
+20200819-12:32:25 Current Best Test Accuracy: LFW: 99.1500% in iters: 19000, AgeDB-30: 91.6167% in iters: 19000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:32:25 Saving model: 19000
+20200819-12:33:13 Iters:11/19100 loss: 6.1493 train accuracy:0.0 learning rate:0.05 remaining time:22 hours 55 mins 13 sec
+20200819-12:34:01 Iters:11/19200 loss: 6.5879 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 58 mins 27 sec
+20200819-12:34:49 Iters:11/19300 loss: 6.7672 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 54 mins 17 sec
+20200819-12:35:36 Iters:11/19400 loss: 6.7309 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 54 mins 1 sec
+20200819-12:36:24 Iters:11/19500 loss: 7.1786 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 57 mins 53 sec
+20200819-12:37:02 Training Epoch: 12/36
+20200819-12:37:12 Iters:12/19600 loss: 6.5695 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 51 mins 10 sec
+20200819-12:37:59 Iters:12/19700 loss: 5.6502 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 51 mins 25 sec
+20200819-12:38:46 Iters:12/19800 loss: 6.2059 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 43 mins 8 sec
+20200819-12:39:32 Iters:12/19900 loss: 5.6379 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 42 mins 56 sec
+20200819-12:40:19 Iters:12/20000 loss: 6.0854 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 43 mins 36 sec
+20200819-12:41:02 LFW Average Accuracy: 99.0500%
+20200819-12:41:46 AgeDB-30 Average Accuracy: 90.8667%
+20200819-12:42:36 CFP-FP Average Accuracy: 92.4286%
+20200819-12:42:36 Current Best Test Accuracy: LFW: 99.1500% in iters: 19000, AgeDB-30: 90.8667% in iters: 20000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:42:36 Saving model: 20000
+20200819-12:43:23 Iters:12/20100 loss: 5.8225 train accuracy:0.0 learning rate:0.05 remaining time:22 hours 31 mins 3 sec
+20200819-12:44:11 Iters:12/20200 loss: 6.3269 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 44 mins 46 sec
+20200819-12:44:58 Iters:12/20300 loss: 6.5554 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 43 mins 52 sec
+20200819-12:45:44 Iters:12/20400 loss: 7.0958 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 36 mins 8 sec
+20200819-12:46:31 Iters:12/20500 loss: 6.1171 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 44 mins 32 sec
+20200819-12:47:18 Iters:12/20600 loss: 6.1200 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 40 mins 39 sec
+20200819-12:48:06 Iters:12/20700 loss: 6.3749 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 42 mins 20 sec
+20200819-12:48:53 Iters:12/20800 loss: 5.7049 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 42 mins 33 sec
+20200819-12:49:41 Iters:12/20900 loss: 5.4537 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 42 mins 19 sec
+20200819-12:50:28 Iters:12/21000 loss: 6.3291 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 38 mins 44 sec
+20200819-12:51:11 LFW Average Accuracy: 99.1000%
+20200819-12:51:53 AgeDB-30 Average Accuracy: 92.0833%
+20200819-12:52:42 CFP-FP Average Accuracy: 90.7286%
+20200819-12:52:42 Current Best Test Accuracy: LFW: 99.1500% in iters: 19000, AgeDB-30: 92.0833% in iters: 21000 and CFP-FP: 92.4429% in iters: 14000
+20200819-12:52:42 Saving model: 21000
+20200819-12:53:30 Iters:12/21100 loss: 6.6781 train accuracy:0.0 learning rate:0.05 remaining time:21 hours 41 mins 20 sec
+20200819-12:54:16 Iters:12/21200 loss: 7.1669 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 35 mins 37 sec
+20200819-12:55:04 Iters:12/21300 loss: 5.9631 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 36 mins 31 sec
+20200819-12:55:32 Training Epoch: 13/36
+20200819-12:55:51 Iters:13/21400 loss: 5.9937 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 38 mins 43 sec
+20200819-12:56:38 Iters:13/21500 loss: 6.1524 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 34 mins 50 sec
+20200819-12:57:25 Iters:13/21600 loss: 6.5581 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 32 mins 40 sec
+20200819-12:58:13 Iters:13/21700 loss: 6.3149 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 33 mins 43 sec
+20200819-12:58:58 Iters:13/21800 loss: 5.9326 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 19 mins 32 sec
+20200819-12:59:45 Iters:13/21900 loss: 6.9549 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 32 mins 20 sec
+20200819-13:00:33 Iters:13/22000 loss: 5.9629 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 32 mins 33 sec
+20200819-13:01:16 LFW Average Accuracy: 98.8167%
+20200819-13:01:58 AgeDB-30 Average Accuracy: 91.3167%
+20200819-13:02:47 CFP-FP Average Accuracy: 92.1571%
+20200819-13:02:47 Current Best Test Accuracy: LFW: 99.1500% in iters: 19000, AgeDB-30: 91.3167% in iters: 22000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:02:47 Saving model: 22000
+20200819-13:03:34 Iters:13/22100 loss: 6.4235 train accuracy:0.0 learning rate:0.05 remaining time:21 hours 9 mins 31 sec
+20200819-13:04:21 Iters:13/22200 loss: 6.2364 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 26 mins 40 sec
+20200819-13:05:08 Iters:13/22300 loss: 6.4588 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 30 mins 44 sec
+20200819-13:05:56 Iters:13/22400 loss: 6.0881 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 32 mins 57 sec
+20200819-13:06:44 Iters:13/22500 loss: 6.0361 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 29 mins 9 sec
+20200819-13:07:32 Iters:13/22600 loss: 6.8793 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 30 mins 8 sec
+20200819-13:08:20 Iters:13/22700 loss: 7.2169 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 33 mins 39 sec
+20200819-13:09:07 Iters:13/22800 loss: 5.9515 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 22 mins 36 sec
+20200819-13:09:53 Iters:13/22900 loss: 6.8315 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 19 mins 23 sec
+20200819-13:10:41 Iters:13/23000 loss: 6.8178 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 23 mins 23 sec
+20200819-13:11:24 LFW Average Accuracy: 99.2000%
+20200819-13:12:06 AgeDB-30 Average Accuracy: 91.2500%
+20200819-13:12:56 CFP-FP Average Accuracy: 92.1143%
+20200819-13:12:56 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.2500% in iters: 23000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:12:56 Saving model: 23000
+20200819-13:13:43 Iters:13/23100 loss: 6.9930 train accuracy:0.0 learning rate:0.05 remaining time:20 hours 42 mins 53 sec
+20200819-13:14:01 Training Epoch: 14/36
+20200819-13:14:31 Iters:14/23200 loss: 5.9425 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 28 mins 9 sec
+20200819-13:15:18 Iters:14/23300 loss: 5.7855 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 22 mins 3 sec
+20200819-13:16:06 Iters:14/23400 loss: 6.3430 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 25 mins 9 sec
+20200819-13:16:53 Iters:14/23500 loss: 5.5305 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 19 mins 25 sec
+20200819-13:17:40 Iters:14/23600 loss: 5.6723 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 13 mins 58 sec
+20200819-13:18:26 Iters:14/23700 loss: 6.1722 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 11 mins 19 sec
+20200819-13:19:13 Iters:14/23800 loss: 5.8587 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 15 mins 48 sec
+20200819-13:20:01 Iters:14/23900 loss: 6.2998 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 18 mins 55 sec
+20200819-13:20:48 Iters:14/24000 loss: 6.3403 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 14 mins 6 sec
+20200819-13:21:31 LFW Average Accuracy: 98.9167%
+20200819-13:22:13 AgeDB-30 Average Accuracy: 92.0833%
+20200819-13:23:04 CFP-FP Average Accuracy: 91.7429%
+20200819-13:23:04 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.0833% in iters: 24000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:23:04 Saving model: 24000
+20200819-13:23:52 Iters:14/24100 loss: 5.7599 train accuracy:0.0 learning rate:0.05 remaining time:20 hours 23 mins 44 sec
+20200819-13:24:39 Iters:14/24200 loss: 5.9991 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 13 mins 31 sec
+20200819-13:25:25 Iters:14/24300 loss: 6.1519 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 7 mins 29 sec
+20200819-13:26:12 Iters:14/24400 loss: 6.3900 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 7 mins 23 sec
+20200819-13:26:59 Iters:14/24500 loss: 5.7278 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 16 mins 7 sec
+20200819-13:27:46 Iters:14/24600 loss: 6.8702 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 9 mins 32 sec
+20200819-13:28:33 Iters:14/24700 loss: 6.0468 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 4 mins 19 sec
+20200819-13:29:20 Iters:14/24800 loss: 6.0178 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 7 mins 11 sec
+20200819-13:30:06 Iters:14/24900 loss: 6.2550 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 4 mins 53 sec
+20200819-13:30:16 Training Epoch: 15/36
+20200819-13:30:55 Iters:15/25000 loss: 5.6457 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 17 mins 17 sec
+20200819-13:31:38 LFW Average Accuracy: 98.9667%
+20200819-13:32:20 AgeDB-30 Average Accuracy: 92.3167%
+20200819-13:33:09 CFP-FP Average Accuracy: 91.4857%
+20200819-13:33:09 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.3167% in iters: 25000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:33:09 Saving model: 25000
+20200819-13:33:56 Iters:15/25100 loss: 5.5308 train accuracy:0.0 learning rate:0.05 remaining time:19 hours 36 mins 30 sec
+20200819-13:34:44 Iters:15/25200 loss: 5.7114 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 6 mins 34 sec
+20200819-13:35:30 Iters:15/25300 loss: 5.9447 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 49 sec
+20200819-13:36:17 Iters:15/25400 loss: 6.9023 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 2 mins 56 sec
+20200819-13:37:04 Iters:15/25500 loss: 5.6298 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 4 mins 21 sec
+20200819-13:37:51 Iters:15/25600 loss: 6.2810 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 58 mins 57 sec
+20200819-13:38:38 Iters:15/25700 loss: 6.3256 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 57 mins 46 sec
+20200819-13:39:23 Iters:15/25800 loss: 5.9362 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 49 mins 15 sec
+20200819-13:40:11 Iters:15/25900 loss: 5.7390 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 3 mins 19 sec
+20200819-13:40:58 Iters:15/26000 loss: 6.1872 train accuracy:0.0 learning rate:0.05 remaining time:5 hours 2 mins 51 sec
+20200819-13:41:41 LFW Average Accuracy: 99.1167%
+20200819-13:42:24 AgeDB-30 Average Accuracy: 91.2833%
+20200819-13:43:13 CFP-FP Average Accuracy: 90.8143%
+20200819-13:43:13 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.2833% in iters: 26000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:43:13 Saving model: 26000
+20200819-13:43:59 Iters:15/26100 loss: 5.6917 train accuracy:0.0 learning rate:0.05 remaining time:19 hours 3 mins 28 sec
+20200819-13:44:46 Iters:15/26200 loss: 6.0292 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 57 mins 45 sec
+20200819-13:45:31 Iters:15/26300 loss: 6.1860 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 45 mins 25 sec
+20200819-13:46:19 Iters:15/26400 loss: 6.2797 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 57 mins 4 sec
+20200819-13:47:06 Iters:15/26500 loss: 6.6219 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 56 mins 12 sec
+20200819-13:47:53 Iters:15/26600 loss: 6.3298 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 53 mins 31 sec
+20200819-13:48:39 Iters:15/26700 loss: 6.7350 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 46 mins 56 sec
+20200819-13:48:39 Training Epoch: 16/36
+20200819-13:49:27 Iters:16/26800 loss: 5.3784 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 58 mins 58 sec
+20200819-13:50:14 Iters:16/26900 loss: 5.8310 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 49 mins 59 sec
+20200819-13:51:01 Iters:16/27000 loss: 6.1456 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 51 mins 32 sec
+20200819-13:51:44 LFW Average Accuracy: 99.1667%
+20200819-13:52:27 AgeDB-30 Average Accuracy: 91.7000%
+20200819-13:53:16 CFP-FP Average Accuracy: 91.9143%
+20200819-13:53:16 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.7000% in iters: 27000 and CFP-FP: 92.4429% in iters: 14000
+20200819-13:53:16 Saving model: 27000
+20200819-13:54:03 Iters:16/27100 loss: 5.5224 train accuracy:0.0 learning rate:0.05 remaining time:18 hours 42 mins 23 sec
+20200819-13:54:51 Iters:16/27200 loss: 6.5282 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 50 mins 28 sec
+20200819-13:55:38 Iters:16/27300 loss: 6.2093 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 52 mins 27 sec
+20200819-13:56:26 Iters:16/27400 loss: 6.3618 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 49 mins 9 sec
+20200819-13:57:13 Iters:16/27500 loss: 6.7110 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 48 mins 22 sec
+20200819-13:58:01 Iters:16/27600 loss: 6.9618 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 50 mins 16 sec
+20200819-13:58:47 Iters:16/27700 loss: 6.4148 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 41 mins 33 sec
+20200819-13:59:34 Iters:16/27800 loss: 6.0133 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 43 mins 57 sec
+20200819-14:00:21 Iters:16/27900 loss: 5.5690 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 44 mins 11 sec
+20200819-14:01:08 Iters:16/28000 loss: 6.2909 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 41 mins 19 sec
+20200819-14:01:50 LFW Average Accuracy: 98.8500%
+20200819-14:02:33 AgeDB-30 Average Accuracy: 91.6000%
+20200819-14:03:22 CFP-FP Average Accuracy: 91.6143%
+20200819-14:03:22 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.6000% in iters: 28000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:03:22 Saving model: 28000
+20200819-14:04:08 Iters:16/28100 loss: 6.0046 train accuracy:0.0 learning rate:0.05 remaining time:17 hours 59 mins 52 sec
+20200819-14:04:53 Iters:16/28200 loss: 7.0113 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 29 mins 55 sec
+20200819-14:05:38 Iters:16/28300 loss: 6.5855 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 30 mins 36 sec
+20200819-14:06:24 Iters:16/28400 loss: 6.2881 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 33 mins 37 sec
+20200819-14:07:01 Training Epoch: 17/36
+20200819-14:07:11 Iters:17/28500 loss: 5.1415 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 37 mins 28 sec
+20200819-14:07:57 Iters:17/28600 loss: 5.5278 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 30 mins 57 sec
+20200819-14:08:41 Iters:17/28700 loss: 4.7207 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 21 mins 14 sec
+20200819-14:09:27 Iters:17/28800 loss: 6.2990 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 29 mins 9 sec
+20200819-14:10:14 Iters:17/28900 loss: 5.4876 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 35 mins 50 sec
+20200819-14:11:01 Iters:17/29000 loss: 6.0507 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 34 mins 22 sec
+20200819-14:11:43 LFW Average Accuracy: 99.0333%
+20200819-14:12:26 AgeDB-30 Average Accuracy: 91.0667%
+20200819-14:13:15 CFP-FP Average Accuracy: 90.8429%
+20200819-14:13:15 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.0667% in iters: 29000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:13:15 Saving model: 29000
+20200819-14:14:01 Iters:17/29100 loss: 6.4279 train accuracy:0.0 learning rate:0.05 remaining time:17 hours 31 mins 27 sec
+20200819-14:14:48 Iters:17/29200 loss: 5.8425 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 33 mins 16 sec
+20200819-14:15:36 Iters:17/29300 loss: 6.5030 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 34 mins 5 sec
+20200819-14:16:23 Iters:17/29400 loss: 6.3720 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 34 mins 32 sec
+20200819-14:17:11 Iters:17/29500 loss: 5.9565 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 34 mins 19 sec
+20200819-14:17:58 Iters:17/29600 loss: 6.6176 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 32 mins 30 sec
+20200819-14:18:45 Iters:17/29700 loss: 6.3938 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 27 mins 39 sec
+20200819-14:19:32 Iters:17/29800 loss: 5.6049 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 29 mins 54 sec
+20200819-14:20:20 Iters:17/29900 loss: 6.1448 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 29 mins 42 sec
+20200819-14:21:07 Iters:17/30000 loss: 6.8811 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 28 mins 16 sec
+20200819-14:21:49 LFW Average Accuracy: 99.0833%
+20200819-14:22:32 AgeDB-30 Average Accuracy: 92.1667%
+20200819-14:23:21 CFP-FP Average Accuracy: 91.7429%
+20200819-14:23:21 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.1667% in iters: 30000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:23:21 Saving model: 30000
+20200819-14:24:08 Iters:17/30100 loss: 6.2531 train accuracy:0.0 learning rate:0.05 remaining time:17 hours 5 mins 1 sec
+20200819-14:24:53 Iters:17/30200 loss: 6.2442 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 18 mins 4 sec
+20200819-14:25:22 Training Epoch: 18/36
+20200819-14:25:41 Iters:18/30300 loss: 4.7028 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 26 mins 33 sec
+20200819-14:26:28 Iters:18/30400 loss: 5.2396 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 25 mins 17 sec
+20200819-14:27:14 Iters:18/30500 loss: 5.7283 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 16 mins 47 sec
+20200819-14:28:01 Iters:18/30600 loss: 6.1320 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 21 mins 11 sec
+20200819-14:28:47 Iters:18/30700 loss: 5.8107 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 16 mins 45 sec
+20200819-14:29:34 Iters:18/30800 loss: 5.8392 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 20 mins 45 sec
+20200819-14:30:21 Iters:18/30900 loss: 6.4005 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 18 mins 42 sec
+20200819-14:31:07 Iters:18/31000 loss: 6.2307 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 15 mins 51 sec
+20200819-14:31:50 LFW Average Accuracy: 98.9833%
+20200819-14:32:32 AgeDB-30 Average Accuracy: 92.2833%
+20200819-14:33:21 CFP-FP Average Accuracy: 90.8286%
+20200819-14:33:21 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.2833% in iters: 31000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:33:21 Saving model: 31000
+20200819-14:34:08 Iters:18/31100 loss: 5.5121 train accuracy:0.0 learning rate:0.05 remaining time:16 hours 32 mins 36 sec
+20200819-14:34:55 Iters:18/31200 loss: 5.2268 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 17 mins 7 sec
+20200819-14:35:41 Iters:18/31300 loss: 6.1870 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 12 mins 4 sec
+20200819-14:36:28 Iters:18/31400 loss: 6.0012 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 15 mins 53 sec
+20200819-14:37:15 Iters:18/31500 loss: 6.1553 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 15 mins 42 sec
+20200819-14:38:02 Iters:18/31600 loss: 6.3770 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 16 mins 22 sec
+20200819-14:38:49 Iters:18/31700 loss: 6.4185 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 15 mins 1 sec
+20200819-14:39:34 Iters:18/31800 loss: 6.1936 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 1 mins 47 sec
+20200819-14:40:21 Iters:18/31900 loss: 6.6640 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 9 mins 54 sec
+20200819-14:41:05 Iters:18/32000 loss: 5.6302 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 58 mins 7 sec
+20200819-14:41:48 LFW Average Accuracy: 98.8667%
+20200819-14:42:31 AgeDB-30 Average Accuracy: 92.0833%
+20200819-14:43:19 CFP-FP Average Accuracy: 91.3000%
+20200819-14:43:19 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.0833% in iters: 32000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:43:19 Saving model: 32000
+20200819-14:43:38 Training Epoch: 19/36
+20200819-14:44:07 Iters:19/32100 loss: 5.3052 train accuracy:0.0 learning rate:0.05 remaining time:16 hours 9 mins 13 sec
+20200819-14:44:55 Iters:19/32200 loss: 5.1827 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 11 mins 23 sec
+20200819-14:45:42 Iters:19/32300 loss: 5.3411 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 12 mins 28 sec
+20200819-14:46:29 Iters:19/32400 loss: 5.8267 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 4 mins 57 sec
+20200819-14:47:13 Iters:19/32500 loss: 5.5584 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 55 mins 24 sec
+20200819-14:48:02 Iters:19/32600 loss: 6.4168 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 12 mins 46 sec
+20200819-14:48:49 Iters:19/32700 loss: 6.1320 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 9 mins 52 sec
+20200819-14:49:37 Iters:19/32800 loss: 6.1578 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 7 mins 53 sec
+20200819-14:50:24 Iters:19/32900 loss: 5.8556 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 5 mins 46 sec
+20200819-14:51:11 Iters:19/33000 loss: 6.0321 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 4 mins 52 sec
+20200819-14:51:54 LFW Average Accuracy: 99.1333%
+20200819-14:52:37 AgeDB-30 Average Accuracy: 91.0667%
+20200819-14:53:27 CFP-FP Average Accuracy: 91.4000%
+20200819-14:53:27 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.0667% in iters: 33000 and CFP-FP: 92.4429% in iters: 14000
+20200819-14:53:27 Saving model: 33000
+20200819-14:54:14 Iters:19/33100 loss: 6.3564 train accuracy:0.0 learning rate:0.05 remaining time:15 hours 44 mins 7 sec
+20200819-14:55:01 Iters:19/33200 loss: 6.5320 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 1 mins 49 sec
+20200819-14:55:48 Iters:19/33300 loss: 6.0489 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 49 sec
+20200819-14:56:35 Iters:19/33400 loss: 6.0968 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 59 mins 25 sec
+20200819-14:57:22 Iters:19/33500 loss: 6.7971 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 58 mins 41 sec
+20200819-14:58:09 Iters:19/33600 loss: 5.6423 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 16 sec
+20200819-14:58:57 Iters:19/33700 loss: 5.8407 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 3 mins 15 sec
+20200819-14:59:45 Iters:19/33800 loss: 5.4941 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 58 mins 40 sec
+20200819-14:59:54 Training Epoch: 20/36
+20200819-15:00:33 Iters:20/33900 loss: 5.6147 train accuracy:0.0 learning rate:0.05 remaining time:4 hours 1 mins 43 sec
+20200819-15:01:20 Iters:20/34000 loss: 4.9554 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 56 mins 9 sec
+20200819-15:02:02 LFW Average Accuracy: 99.0000%
+20200819-15:02:45 AgeDB-30 Average Accuracy: 91.4167%
+20200819-15:03:34 CFP-FP Average Accuracy: 90.9286%
+20200819-15:03:34 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.4167% in iters: 34000 and CFP-FP: 92.4429% in iters: 14000
+20200819-15:03:34 Saving model: 34000
+20200819-15:04:22 Iters:20/34100 loss: 5.9943 train accuracy:0.0 learning rate:0.05 remaining time:15 hours 9 mins 7 sec
+20200819-15:05:08 Iters:20/34200 loss: 5.8430 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 51 mins 48 sec
+20200819-15:05:55 Iters:20/34300 loss: 5.7196 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 52 mins 56 sec
+20200819-15:06:41 Iters:20/34400 loss: 6.6577 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 46 mins 46 sec
+20200819-15:07:28 Iters:20/34500 loss: 5.8575 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 49 mins 39 sec
+20200819-15:08:15 Iters:20/34600 loss: 5.7673 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 51 mins 39 sec
+20200819-15:09:02 Iters:20/34700 loss: 5.4324 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 49 mins 35 sec
+20200819-15:09:49 Iters:20/34800 loss: 6.7034 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 49 mins 60 sec
+20200819-15:10:36 Iters:20/34900 loss: 5.7128 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 50 mins 52 sec
+20200819-15:11:23 Iters:20/35000 loss: 6.1471 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 46 mins 39 sec
+20200819-15:12:04 LFW Average Accuracy: 99.1167%
+20200819-15:12:47 AgeDB-30 Average Accuracy: 91.6167%
+20200819-15:13:36 CFP-FP Average Accuracy: 90.5429%
+20200819-15:13:36 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.6167% in iters: 35000 and CFP-FP: 92.4429% in iters: 14000
+20200819-15:13:36 Saving model: 35000
+20200819-15:14:23 Iters:20/35100 loss: 5.6435 train accuracy:0.0 learning rate:0.05 remaining time:14 hours 31 mins 49 sec
+20200819-15:15:11 Iters:20/35200 loss: 5.8639 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 47 mins 7 sec
+20200819-15:15:58 Iters:20/35300 loss: 5.6804 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 48 mins 44 sec
+20200819-15:16:46 Iters:20/35400 loss: 6.1055 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 46 mins 38 sec
+20200819-15:17:33 Iters:20/35500 loss: 6.4234 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 45 mins 35 sec
+20200819-15:18:19 Iters:20/35600 loss: 6.1603 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 39 mins 25 sec
+20200819-15:18:19 Training Epoch: 21/36
+20200819-15:19:08 Iters:21/35700 loss: 5.8749 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 48 mins 47 sec
+20200819-15:19:55 Iters:21/35800 loss: 5.3631 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 41 mins 45 sec
+20200819-15:20:41 Iters:21/35900 loss: 5.5162 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 37 mins 15 sec
+20200819-15:21:26 Iters:21/36000 loss: 5.5988 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 32 mins 30 sec
+20200819-15:22:09 LFW Average Accuracy: 99.0667%
+20200819-15:22:51 AgeDB-30 Average Accuracy: 91.3833%
+20200819-15:23:40 CFP-FP Average Accuracy: 91.7857%
+20200819-15:23:40 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.3833% in iters: 36000 and CFP-FP: 92.4429% in iters: 14000
+20200819-15:23:40 Saving model: 36000
+20200819-15:24:27 Iters:21/36100 loss: 6.2049 train accuracy:0.0 learning rate:0.05 remaining time:14 hours 2 mins 28 sec
+20200819-15:25:14 Iters:21/36200 loss: 6.0396 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 40 mins 35 sec
+20200819-15:26:02 Iters:21/36300 loss: 5.8331 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 38 mins 28 sec
+20200819-15:26:49 Iters:21/36400 loss: 5.7921 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 36 mins 17 sec
+20200819-15:27:36 Iters:21/36500 loss: 5.9586 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 40 mins 25 sec
+20200819-15:28:24 Iters:21/36600 loss: 5.3013 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 35 mins 31 sec
+20200819-15:29:11 Iters:21/36700 loss: 5.9828 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 36 mins 23 sec
+20200819-15:29:58 Iters:21/36800 loss: 6.2811 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 34 mins 29 sec
+20200819-15:30:45 Iters:21/36900 loss: 6.2245 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 33 mins 8 sec
+20200819-15:31:32 Iters:21/37000 loss: 6.2786 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 32 mins 32 sec
+20200819-15:32:17 LFW Average Accuracy: 98.8500%
+20200819-15:33:00 AgeDB-30 Average Accuracy: 91.9833%
+20200819-15:33:49 CFP-FP Average Accuracy: 92.4429%
+20200819-15:33:49 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 91.9833% in iters: 37000 and CFP-FP: 92.4429% in iters: 37000
+20200819-15:33:49 Saving model: 37000
+20200819-15:34:37 Iters:21/37100 loss: 5.2123 train accuracy:0.0 learning rate:0.05 remaining time:13 hours 49 mins 43 sec
+20200819-15:35:23 Iters:21/37200 loss: 6.2748 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 28 mins 23 sec
+20200819-15:36:11 Iters:21/37300 loss: 6.3977 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 32 mins 19 sec
+20200819-15:36:49 Training Epoch: 22/36
+20200819-15:36:59 Iters:22/37400 loss: 5.3461 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 35 mins 4 sec
+20200819-15:37:47 Iters:22/37500 loss: 6.1128 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 31 mins 53 sec
+20200819-15:38:34 Iters:22/37600 loss: 5.6971 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 27 mins 35 sec
+20200819-15:39:21 Iters:22/37700 loss: 5.9094 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 26 mins 31 sec
+20200819-15:40:08 Iters:22/37800 loss: 5.7694 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 24 mins 43 sec
+20200819-15:40:55 Iters:22/37900 loss: 6.0265 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 24 mins 43 sec
+20200819-15:41:42 Iters:22/38000 loss: 5.3904 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 27 mins 47 sec
+20200819-15:42:24 LFW Average Accuracy: 98.7667%
+20200819-15:43:07 AgeDB-30 Average Accuracy: 92.0500%
+20200819-15:43:56 CFP-FP Average Accuracy: 92.0714%
+20200819-15:43:56 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.0500% in iters: 38000 and CFP-FP: 92.4429% in iters: 37000
+20200819-15:43:56 Saving model: 38000
+20200819-15:44:42 Iters:22/38100 loss: 5.1128 train accuracy:0.0 learning rate:0.05 remaining time:12 hours 59 mins 4 sec
+20200819-15:45:30 Iters:22/38200 loss: 6.3777 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 23 mins 24 sec
+20200819-15:46:17 Iters:22/38300 loss: 6.3824 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 21 mins 45 sec
+20200819-15:47:03 Iters:22/38400 loss: 6.5825 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 19 mins 54 sec
+20200819-15:47:50 Iters:22/38500 loss: 6.3699 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 21 mins 17 sec
+20200819-15:48:38 Iters:22/38600 loss: 5.3059 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 19 mins 56 sec
+20200819-15:49:24 Iters:22/38700 loss: 5.3468 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 18 mins 33 sec
+20200819-15:50:11 Iters:22/38800 loss: 5.6888 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 17 mins 57 sec
+20200819-15:50:59 Iters:22/38900 loss: 5.5006 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 18 mins 33 sec
+20200819-15:51:46 Iters:22/39000 loss: 5.9140 train accuracy:0.0 learning rate:0.05 remaining time:3 hours 16 mins 60 sec
+20200819-15:52:29 LFW Average Accuracy: 98.8167%
+20200819-15:53:12 AgeDB-30 Average Accuracy: 92.0667%
+20200819-15:54:01 CFP-FP Average Accuracy: 92.3143%
+20200819-15:54:01 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 92.0667% in iters: 39000 and CFP-FP: 92.4429% in iters: 37000
+20200819-15:54:01 Saving model: 39000
+20200819-15:54:49 Iters:22/39100 loss: 6.2055 train accuracy:0.0 learning rate:0.05 remaining time:12 hours 41 mins 25 sec
+20200819-15:55:17 Training Epoch: 23/36
+20200819-15:55:37 Iters:23/39200 loss: 4.1798 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 18 mins 32 sec
+20200819-15:56:24 Iters:23/39300 loss: 4.4975 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 15 mins 27 sec
+20200819-15:57:10 Iters:23/39400 loss: 4.5918 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 7 mins 44 sec
+20200819-15:57:57 Iters:23/39500 loss: 4.4070 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 13 mins 48 sec
+20200819-15:58:44 Iters:23/39600 loss: 3.5355 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 13 mins 12 sec
+20200819-15:59:30 Iters:23/39700 loss: 4.3653 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 6 mins 44 sec
+20200819-16:00:17 Iters:23/39800 loss: 3.9739 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 8 mins 19 sec
+20200819-16:01:03 Iters:23/39900 loss: 4.2122 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 8 mins 25 sec
+20200819-16:01:50 Iters:23/40000 loss: 3.2294 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 5 mins 11 sec
+20200819-16:02:32 LFW Average Accuracy: 99.1833%
+20200819-16:03:15 AgeDB-30 Average Accuracy: 93.7500%
+20200819-16:04:04 CFP-FP Average Accuracy: 94.4286%
+20200819-16:04:04 Current Best Test Accuracy: LFW: 99.2000% in iters: 23000, AgeDB-30: 93.7500% in iters: 40000 and CFP-FP: 94.4286% in iters: 40000
+20200819-16:04:04 Saving model: 40000
+20200819-16:04:52 Iters:23/40100 loss: 3.3227 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:12 hours 7 mins 47 sec
+20200819-16:05:39 Iters:23/40200 loss: 3.6355 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 8 mins 25 sec
+20200819-16:06:26 Iters:23/40300 loss: 3.4751 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 7 mins 7 sec
+20200819-16:07:14 Iters:23/40400 loss: 4.3222 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 7 mins 49 sec
+20200819-16:08:01 Iters:23/40500 loss: 3.2984 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 3 mins 43 sec
+20200819-16:08:47 Iters:23/40600 loss: 3.9334 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 31 sec
+20200819-16:09:34 Iters:23/40700 loss: 3.7710 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 3 mins 11 sec
+20200819-16:10:21 Iters:23/40800 loss: 3.6210 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 3 mins 8 sec
+20200819-16:11:09 Iters:23/40900 loss: 2.9186 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 3 mins 51 sec
+20200819-16:11:27 Training Epoch: 24/36
+20200819-16:11:57 Iters:24/41000 loss: 3.0939 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 5 mins 6 sec
+20200819-16:12:39 LFW Average Accuracy: 99.2833%
+20200819-16:13:21 AgeDB-30 Average Accuracy: 93.8500%
+20200819-16:14:10 CFP-FP Average Accuracy: 94.7000%
+20200819-16:14:10 Current Best Test Accuracy: LFW: 99.2833% in iters: 41000, AgeDB-30: 93.8500% in iters: 41000 and CFP-FP: 94.7000% in iters: 41000
+20200819-16:14:10 Saving model: 41000
+20200819-16:14:57 Iters:24/41100 loss: 2.4055 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:11 hours 30 mins 31 sec
+20200819-16:15:44 Iters:24/41200 loss: 3.2274 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:3 hours 13 sec
+20200819-16:16:31 Iters:24/41300 loss: 3.0449 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 58 mins 19 sec
+20200819-16:17:18 Iters:24/41400 loss: 3.1118 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 57 mins 6 sec
+20200819-16:18:05 Iters:24/41500 loss: 3.3755 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 57 mins 36 sec
+20200819-16:18:52 Iters:24/41600 loss: 3.5440 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 53 mins 54 sec
+20200819-16:19:38 Iters:24/41700 loss: 3.0259 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 51 mins 21 sec
+20200819-16:20:25 Iters:24/41800 loss: 3.0460 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 55 mins 6 sec
+20200819-16:21:12 Iters:24/41900 loss: 2.8403 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 53 mins 50 sec
+20200819-16:21:59 Iters:24/42000 loss: 3.1359 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 54 mins 49 sec
+20200819-16:22:42 LFW Average Accuracy: 99.3000%
+20200819-16:23:24 AgeDB-30 Average Accuracy: 93.9833%
+20200819-16:24:12 CFP-FP Average Accuracy: 94.8714%
+20200819-16:24:12 Current Best Test Accuracy: LFW: 99.3000% in iters: 42000, AgeDB-30: 93.9833% in iters: 42000 and CFP-FP: 94.8714% in iters: 42000
+20200819-16:24:12 Saving model: 42000
+20200819-16:25:00 Iters:24/42100 loss: 2.8019 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:11 hours 29 sec
+20200819-16:25:47 Iters:24/42200 loss: 3.1961 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 51 mins 46 sec
+20200819-16:26:34 Iters:24/42300 loss: 3.0107 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 53 mins 23 sec
+20200819-16:27:20 Iters:24/42400 loss: 3.2673 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 46 mins 2 sec
+20200819-16:28:06 Iters:24/42500 loss: 2.9148 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 45 mins 33 sec
+20200819-16:28:54 Iters:24/42600 loss: 2.2791 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 49 mins 35 sec
+20200819-16:29:41 Iters:24/42700 loss: 2.7996 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 49 mins 39 sec
+20200819-16:29:51 Training Epoch: 25/36
+20200819-16:30:29 Iters:25/42800 loss: 2.3082 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 50 mins 30 sec
+20200819-16:31:17 Iters:25/42900 loss: 2.9383 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 48 mins 25 sec
+20200819-16:32:05 Iters:25/43000 loss: 3.1103 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 46 mins 44 sec
+20200819-16:32:48 LFW Average Accuracy: 99.3000%
+20200819-16:33:31 AgeDB-30 Average Accuracy: 93.9667%
+20200819-16:34:20 CFP-FP Average Accuracy: 94.9000%
+20200819-16:34:20 Current Best Test Accuracy: LFW: 99.3000% in iters: 43000, AgeDB-30: 93.9667% in iters: 43000 and CFP-FP: 94.9000% in iters: 43000
+20200819-16:34:20 Saving model: 43000
+20200819-16:35:07 Iters:25/43100 loss: 2.5985 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:10 hours 38 mins 28 sec
+20200819-16:35:54 Iters:25/43200 loss: 2.3837 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 42 mins 4 sec
+20200819-16:36:41 Iters:25/43300 loss: 3.2007 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 43 mins 33 sec
+20200819-16:37:28 Iters:25/43400 loss: 2.4063 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 42 mins 34 sec
+20200819-16:38:16 Iters:25/43500 loss: 3.1715 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 43 mins 10 sec
+20200819-16:39:03 Iters:25/43600 loss: 2.6352 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 42 mins 23 sec
+20200819-16:39:51 Iters:25/43700 loss: 2.2801 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 41 mins 50 sec
+20200819-16:40:38 Iters:25/43800 loss: 2.5881 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 38 mins 13 sec
+20200819-16:41:25 Iters:25/43900 loss: 3.1347 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 39 mins 9 sec
+20200819-16:42:12 Iters:25/44000 loss: 2.1134 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 37 mins 45 sec
+20200819-16:42:55 LFW Average Accuracy: 99.2167%
+20200819-16:43:37 AgeDB-30 Average Accuracy: 94.3500%
+20200819-16:44:28 CFP-FP Average Accuracy: 95.0143%
+20200819-16:44:28 Current Best Test Accuracy: LFW: 99.3000% in iters: 43000, AgeDB-30: 94.3500% in iters: 44000 and CFP-FP: 95.0143% in iters: 44000
+20200819-16:44:28 Saving model: 44000
+20200819-16:45:16 Iters:25/44100 loss: 2.9520 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:10 hours 11 mins 25 sec
+20200819-16:46:03 Iters:25/44200 loss: 2.0268 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 37 mins 39 sec
+20200819-16:46:51 Iters:25/44300 loss: 2.9322 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 35 mins 34 sec
+20200819-16:47:38 Iters:25/44400 loss: 2.7541 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 34 mins 22 sec
+20200819-16:48:25 Iters:25/44500 loss: 2.7505 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 34 mins 31 sec
+20200819-16:48:25 Training Epoch: 26/36
+20200819-16:49:13 Iters:26/44600 loss: 2.2968 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 36 mins 6 sec
+20200819-16:50:00 Iters:26/44700 loss: 2.5292 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 31 mins 14 sec
+20200819-16:50:46 Iters:26/44800 loss: 2.9240 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 29 mins 44 sec
+20200819-16:51:33 Iters:26/44900 loss: 3.0269 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 29 mins 57 sec
+20200819-16:52:20 Iters:26/45000 loss: 2.3249 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 28 mins 45 sec
+20200819-16:53:04 LFW Average Accuracy: 99.2833%
+20200819-16:53:47 AgeDB-30 Average Accuracy: 94.3167%
+20200819-16:54:36 CFP-FP Average Accuracy: 95.0000%
+20200819-16:54:36 Current Best Test Accuracy: LFW: 99.3000% in iters: 43000, AgeDB-30: 94.3167% in iters: 45000 and CFP-FP: 95.0143% in iters: 44000
+20200819-16:54:36 Saving model: 45000
+20200819-16:55:23 Iters:26/45100 loss: 2.2662 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:9 hours 39 mins 18 sec
+20200819-16:56:10 Iters:26/45200 loss: 2.9867 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 28 mins 49 sec
+20200819-16:56:57 Iters:26/45300 loss: 2.5931 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 26 mins 18 sec
+20200819-16:57:45 Iters:26/45400 loss: 3.0405 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 28 mins 56 sec
+20200819-16:58:33 Iters:26/45500 loss: 2.0324 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 27 mins 28 sec
+20200819-16:59:21 Iters:26/45600 loss: 2.5568 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 28 mins 23 sec
+20200819-17:00:08 Iters:26/45700 loss: 2.1711 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 25 mins 53 sec
+20200819-17:00:56 Iters:26/45800 loss: 2.4210 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 23 mins 40 sec
+20200819-17:01:43 Iters:26/45900 loss: 2.2079 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 22 mins 45 sec
+20200819-17:02:29 Iters:26/46000 loss: 3.0954 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 20 mins 3 sec
+20200819-17:03:12 LFW Average Accuracy: 99.2000%
+20200819-17:03:54 AgeDB-30 Average Accuracy: 94.1667%
+20200819-17:04:43 CFP-FP Average Accuracy: 95.3000%
+20200819-17:04:43 Current Best Test Accuracy: LFW: 99.3000% in iters: 43000, AgeDB-30: 94.1667% in iters: 46000 and CFP-FP: 95.3000% in iters: 46000
+20200819-17:04:43 Saving model: 46000
+20200819-17:05:30 Iters:26/46100 loss: 2.4025 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:9 hours 2 mins 28 sec
+20200819-17:06:18 Iters:26/46200 loss: 3.2084 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 21 mins 12 sec
+20200819-17:06:55 Training Epoch: 27/36
+20200819-17:07:06 Iters:27/46300 loss: 2.9888 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 22 mins 22 sec
+20200819-17:07:53 Iters:27/46400 loss: 2.7883 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 20 mins 2 sec
+20200819-17:08:41 Iters:27/46500 loss: 2.3061 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 19 mins 26 sec
+20200819-17:09:29 Iters:27/46600 loss: 2.3100 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 20 mins 38 sec
+20200819-17:10:16 Iters:27/46700 loss: 2.3482 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 17 mins 2 sec
+20200819-17:11:01 Iters:27/46800 loss: 2.6660 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 9 mins 1 sec
+20200819-17:11:49 Iters:27/46900 loss: 2.6694 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 15 mins 44 sec
+20200819-17:12:36 Iters:27/47000 loss: 2.3381 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 13 mins 50 sec
+20200819-17:13:18 LFW Average Accuracy: 99.1000%
+20200819-17:14:01 AgeDB-30 Average Accuracy: 93.9500%
+20200819-17:14:49 CFP-FP Average Accuracy: 95.1714%
+20200819-17:14:49 Current Best Test Accuracy: LFW: 99.3000% in iters: 43000, AgeDB-30: 93.9500% in iters: 47000 and CFP-FP: 95.3000% in iters: 46000
+20200819-17:14:49 Saving model: 47000
+20200819-17:15:37 Iters:27/47100 loss: 1.6418 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:8 hours 32 mins 30 sec
+20200819-17:16:24 Iters:27/47200 loss: 2.8074 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 13 mins 30 sec
+20200819-17:17:11 Iters:27/47300 loss: 2.4514 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 11 mins 23 sec
+20200819-17:17:58 Iters:27/47400 loss: 2.4491 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 11 mins 29 sec
+20200819-17:18:45 Iters:27/47500 loss: 1.7203 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 10 mins 11 sec
+20200819-17:19:33 Iters:27/47600 loss: 2.2523 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 10 mins 23 sec
+20200819-17:20:20 Iters:27/47700 loss: 2.4416 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 8 mins 4 sec
+20200819-17:21:07 Iters:27/47800 loss: 2.5065 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 9 mins 7 sec
+20200819-17:21:55 Iters:27/47900 loss: 3.2372 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 7 mins 26 sec
+20200819-17:22:42 Iters:27/48000 loss: 2.4503 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 8 mins 3 sec
+20200819-17:23:25 LFW Average Accuracy: 99.3500%
+20200819-17:24:08 AgeDB-30 Average Accuracy: 94.3667%
+20200819-17:24:58 CFP-FP Average Accuracy: 95.2857%
+20200819-17:24:58 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.3667% in iters: 48000 and CFP-FP: 95.3000% in iters: 46000
+20200819-17:24:58 Saving model: 48000
+20200819-17:25:27 Training Epoch: 28/36
+20200819-17:25:47 Iters:28/48100 loss: 1.9751 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:8 hours 11 mins 28 sec
+20200819-17:26:35 Iters:28/48200 loss: 2.1108 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 6 mins 10 sec
+20200819-17:27:22 Iters:28/48300 loss: 2.6728 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 4 mins 28 sec
+20200819-17:28:09 Iters:28/48400 loss: 2.3313 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 3 mins 40 sec
+20200819-17:28:56 Iters:28/48500 loss: 2.8402 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 2 mins 2 sec
+20200819-17:29:43 Iters:28/48600 loss: 2.5425 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 55 sec
+20200819-17:30:30 Iters:28/48700 loss: 2.3198 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 1 mins 19 sec
+20200819-17:31:17 Iters:28/48800 loss: 2.4288 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 57 mins 54 sec
+20200819-17:32:04 Iters:28/48900 loss: 2.0120 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:2 hours 33 sec
+20200819-17:32:52 Iters:28/49000 loss: 2.5135 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 58 mins 50 sec
+20200819-17:33:34 LFW Average Accuracy: 99.2500%
+20200819-17:34:17 AgeDB-30 Average Accuracy: 94.4000%
+20200819-17:35:08 CFP-FP Average Accuracy: 95.3143%
+20200819-17:35:08 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.4000% in iters: 49000 and CFP-FP: 95.3143% in iters: 49000
+20200819-17:35:08 Saving model: 49000
+20200819-17:35:56 Iters:28/49100 loss: 2.1604 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:7 hours 41 mins 2 sec
+20200819-17:36:44 Iters:28/49200 loss: 1.7787 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 59 mins 7 sec
+20200819-17:37:31 Iters:28/49300 loss: 2.5151 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 55 mins 51 sec
+20200819-17:38:19 Iters:28/49400 loss: 1.8196 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 55 mins 56 sec
+20200819-17:39:06 Iters:28/49500 loss: 2.0628 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 53 mins 56 sec
+20200819-17:39:52 Iters:28/49600 loss: 2.4970 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 52 mins 57 sec
+20200819-17:40:39 Iters:28/49700 loss: 2.1717 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 52 mins 34 sec
+20200819-17:41:27 Iters:28/49800 loss: 2.6366 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 53 mins 25 sec
+20200819-17:41:46 Training Epoch: 29/36
+20200819-17:42:16 Iters:29/49900 loss: 2.5311 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 54 mins 53 sec
+20200819-17:43:03 Iters:29/50000 loss: 2.5467 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 50 mins 45 sec
+20200819-17:43:46 LFW Average Accuracy: 99.2833%
+20200819-17:44:27 AgeDB-30 Average Accuracy: 94.2667%
+20200819-17:45:17 CFP-FP Average Accuracy: 95.2429%
+20200819-17:45:17 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.2667% in iters: 50000 and CFP-FP: 95.3143% in iters: 49000
+20200819-17:45:17 Saving model: 50000
+20200819-17:46:03 Iters:29/50100 loss: 1.4930 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:7 hours 19 sec
+20200819-17:46:50 Iters:29/50200 loss: 1.8715 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 48 mins 25 sec
+20200819-17:47:37 Iters:29/50300 loss: 2.1423 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 47 mins 8 sec
+20200819-17:48:24 Iters:29/50400 loss: 1.9884 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 46 mins 48 sec
+20200819-17:49:12 Iters:29/50500 loss: 2.2905 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 49 mins 4 sec
+20200819-17:50:00 Iters:29/50600 loss: 3.0228 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 47 mins 25 sec
+20200819-17:50:47 Iters:29/50700 loss: 3.0490 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 44 mins 42 sec
+20200819-17:51:34 Iters:29/50800 loss: 1.9690 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 45 mins 34 sec
+20200819-17:52:21 Iters:29/50900 loss: 2.3096 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 43 mins 19 sec
+20200819-17:53:08 Iters:29/51000 loss: 2.0017 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 42 mins 20 sec
+20200819-17:53:53 LFW Average Accuracy: 99.3167%
+20200819-17:54:36 AgeDB-30 Average Accuracy: 94.0000%
+20200819-17:55:24 CFP-FP Average Accuracy: 95.0571%
+20200819-17:55:24 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.0000% in iters: 51000 and CFP-FP: 95.3143% in iters: 49000
+20200819-17:55:24 Saving model: 51000
+20200819-17:56:11 Iters:29/51100 loss: 2.5720 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:6 hours 35 mins 50 sec
+20200819-17:56:58 Iters:29/51200 loss: 1.5299 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 41 mins 7 sec
+20200819-17:57:45 Iters:29/51300 loss: 2.2154 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 40 mins 15 sec
+20200819-17:58:33 Iters:29/51400 loss: 3.1256 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 39 mins 51 sec
+20200819-17:59:20 Iters:29/51500 loss: 2.5164 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 39 mins 51 sec
+20200819-18:00:07 Iters:29/51600 loss: 2.6748 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 37 mins 36 sec
+20200819-18:00:16 Training Epoch: 30/36
+20200819-18:00:55 Iters:30/51700 loss: 2.0585 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 39 mins 36 sec
+20200819-18:01:43 Iters:30/51800 loss: 2.0863 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 36 mins 56 sec
+20200819-18:02:31 Iters:30/51900 loss: 1.8001 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 37 mins 12 sec
+20200819-18:03:18 Iters:30/52000 loss: 2.1154 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 35 mins 42 sec
+20200819-18:04:02 LFW Average Accuracy: 99.2000%
+20200819-18:04:44 AgeDB-30 Average Accuracy: 94.0667%
+20200819-18:05:33 CFP-FP Average Accuracy: 95.1429%
+20200819-18:05:33 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.0667% in iters: 52000 and CFP-FP: 95.3143% in iters: 49000
+20200819-18:05:33 Saving model: 52000
+20200819-18:06:20 Iters:30/52100 loss: 2.1743 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:6 hours 3 mins 19 sec
+20200819-18:07:07 Iters:30/52200 loss: 2.0449 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 33 mins 29 sec
+20200819-18:07:55 Iters:30/52300 loss: 1.9823 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 33 mins 55 sec
+20200819-18:08:43 Iters:30/52400 loss: 2.0191 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 32 mins 25 sec
+20200819-18:09:30 Iters:30/52500 loss: 1.7276 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 31 mins 20 sec
+20200819-18:10:16 Iters:30/52600 loss: 2.7358 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 28 mins 24 sec
+20200819-18:11:04 Iters:30/52700 loss: 2.0742 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 30 mins 26 sec
+20200819-18:11:51 Iters:30/52800 loss: 2.0392 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 29 mins 17 sec
+20200819-18:12:39 Iters:30/52900 loss: 2.4539 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 29 mins 18 sec
+20200819-18:13:27 Iters:30/53000 loss: 1.8454 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 27 mins 38 sec
+20200819-18:14:10 LFW Average Accuracy: 99.3333%
+20200819-18:14:53 AgeDB-30 Average Accuracy: 94.2333%
+20200819-18:15:42 CFP-FP Average Accuracy: 95.0286%
+20200819-18:15:42 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.2333% in iters: 53000 and CFP-FP: 95.3143% in iters: 49000
+20200819-18:15:42 Saving model: 53000
+20200819-18:16:29 Iters:30/53100 loss: 2.3182 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:5 hours 34 mins 11 sec
+20200819-18:17:17 Iters:30/53200 loss: 2.1861 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 26 mins 48 sec
+20200819-18:18:05 Iters:30/53300 loss: 2.1106 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 25 mins 51 sec
+20200819-18:18:52 Iters:30/53400 loss: 2.0589 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 24 mins 26 sec
+20200819-18:18:52 Training Epoch: 31/36
+20200819-18:19:41 Iters:31/53500 loss: 1.5419 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 26 mins 18 sec
+20200819-18:20:29 Iters:31/53600 loss: 1.6980 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 22 mins 55 sec
+20200819-18:21:16 Iters:31/53700 loss: 1.6787 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 22 mins 10 sec
+20200819-18:22:03 Iters:31/53800 loss: 2.1546 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 20 mins 57 sec
+20200819-18:22:51 Iters:31/53900 loss: 2.0255 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 20 mins 23 sec
+20200819-18:23:38 Iters:31/54000 loss: 1.8086 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 18 mins 52 sec
+20200819-18:24:20 LFW Average Accuracy: 99.2833%
+20200819-18:25:03 AgeDB-30 Average Accuracy: 94.2000%
+20200819-18:25:52 CFP-FP Average Accuracy: 94.8857%
+20200819-18:25:52 Current Best Test Accuracy: LFW: 99.3500% in iters: 48000, AgeDB-30: 94.2000% in iters: 54000 and CFP-FP: 95.3143% in iters: 49000
+20200819-18:25:52 Saving model: 54000
+20200819-18:26:40 Iters:31/54100 loss: 2.1304 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:5 hours 2 mins 50 sec
+20200819-18:27:27 Iters:31/54200 loss: 2.1234 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 16 mins 53 sec
+20200819-18:28:11 Iters:31/54300 loss: 1.8952 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 13 mins 16 sec
+20200819-18:28:57 Iters:31/54400 loss: 1.7123 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 13 mins 48 sec
+20200819-18:29:44 Iters:31/54500 loss: 2.3092 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 14 mins 19 sec
+20200819-18:30:31 Iters:31/54600 loss: 2.1063 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 14 mins 24 sec
+20200819-18:31:18 Iters:31/54700 loss: 2.2750 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 13 mins 28 sec
+20200819-18:32:05 Iters:31/54800 loss: 1.6475 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 13 mins 10 sec
+20200819-18:32:52 Iters:31/54900 loss: 2.1256 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 11 mins 22 sec
+20200819-18:33:39 Iters:31/55000 loss: 1.7961 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:1 hours 11 mins 30 sec
+20200819-18:34:22 LFW Average Accuracy: 99.3833%
+20200819-18:35:05 AgeDB-30 Average Accuracy: 94.1167%
+20200819-18:35:55 CFP-FP Average Accuracy: 95.4000%
+20200819-18:35:55 Current Best Test Accuracy: LFW: 99.3833% in iters: 55000, AgeDB-30: 94.1167% in iters: 55000 and CFP-FP: 95.4000% in iters: 55000
+20200819-18:35:55 Saving model: 55000
+20200819-18:36:43 Iters:31/55100 loss: 1.9490 train accuracy:0.0 learning rate:0.005000000000000001 remaining time:4 hours 34 mins 59 sec
+20200819-18:37:21 Training Epoch: 32/36
+20200819-18:37:31 Iters:32/55200 loss: 1.9575 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 11 mins 15 sec
+20200819-18:38:18 Iters:32/55300 loss: 1.0773 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 9 mins 4 sec
+20200819-18:39:06 Iters:32/55400 loss: 1.5317 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 8 mins 40 sec
+20200819-18:39:53 Iters:32/55500 loss: 1.8280 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 7 mins 53 sec
+20200819-18:40:40 Iters:32/55600 loss: 1.5689 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 6 mins 27 sec
+20200819-18:41:27 Iters:32/55700 loss: 1.8916 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 5 mins 27 sec
+20200819-18:42:14 Iters:32/55800 loss: 1.2067 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 4 mins 40 sec
+20200819-18:43:01 Iters:32/55900 loss: 1.9285 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 5 mins 2 sec
+20200819-18:43:49 Iters:32/56000 loss: 1.5849 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 3 mins 48 sec
+20200819-18:44:32 LFW Average Accuracy: 99.3833%
+20200819-18:45:14 AgeDB-30 Average Accuracy: 94.3333%
+20200819-18:46:04 CFP-FP Average Accuracy: 95.5000%
+20200819-18:46:04 Current Best Test Accuracy: LFW: 99.3833% in iters: 56000, AgeDB-30: 94.3333% in iters: 56000 and CFP-FP: 95.5000% in iters: 56000
+20200819-18:46:04 Saving model: 56000
+20200819-18:46:51 Iters:32/56100 loss: 1.6497 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:4 hours 2 mins 59 sec
+20200819-18:47:39 Iters:32/56200 loss: 1.3843 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 2 mins 31 sec
+20200819-18:48:26 Iters:32/56300 loss: 1.6859 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 35 sec
+20200819-18:49:13 Iters:32/56400 loss: 1.5763 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 51 sec
+20200819-18:50:00 Iters:32/56500 loss: 1.7470 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:59 mins 4 sec
+20200819-18:50:47 Iters:32/56600 loss: 1.9954 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:58 mins 59 sec
+20200819-18:51:35 Iters:32/56700 loss: 2.1254 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:58 mins 41 sec
+20200819-18:52:23 Iters:32/56800 loss: 1.6821 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:58 mins 9 sec
+20200819-18:53:11 Iters:32/56900 loss: 1.8082 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:56 mins 56 sec
+20200819-18:53:39 Training Epoch: 33/36
+20200819-18:53:59 Iters:33/57000 loss: 1.4728 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:56 mins 45 sec
+20200819-18:54:42 LFW Average Accuracy: 99.3500%
+20200819-18:55:24 AgeDB-30 Average Accuracy: 94.0167%
+20200819-18:56:13 CFP-FP Average Accuracy: 95.4286%
+20200819-18:56:13 Current Best Test Accuracy: LFW: 99.3833% in iters: 56000, AgeDB-30: 94.0167% in iters: 57000 and CFP-FP: 95.5000% in iters: 56000
+20200819-18:56:13 Saving model: 57000
+20200819-18:57:00 Iters:33/57100 loss: 1.2371 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:3 hours 30 mins 36 sec
+20200819-18:57:46 Iters:33/57200 loss: 1.5031 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:53 mins 38 sec
+20200819-18:58:33 Iters:33/57300 loss: 1.8392 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:52 mins 20 sec
+20200819-18:59:20 Iters:33/57400 loss: 1.5524 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:52 mins 52 sec
+20200819-19:00:08 Iters:33/57500 loss: 1.5858 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:51 mins 54 sec
+20200819-19:00:54 Iters:33/57600 loss: 1.7108 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:49 mins 40 sec
+20200819-19:01:40 Iters:33/57700 loss: 1.7591 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:49 mins 40 sec
+20200819-19:02:26 Iters:33/57800 loss: 1.7530 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:47 mins 60 sec
+20200819-19:03:13 Iters:33/57900 loss: 1.2778 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:48 mins 13 sec
+20200819-19:04:00 Iters:33/58000 loss: 1.4049 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:47 mins 43 sec
+20200819-19:04:43 LFW Average Accuracy: 99.3333%
+20200819-19:05:25 AgeDB-30 Average Accuracy: 94.1167%
+20200819-19:06:14 CFP-FP Average Accuracy: 95.5857%
+20200819-19:06:14 Current Best Test Accuracy: LFW: 99.3833% in iters: 56000, AgeDB-30: 94.1167% in iters: 58000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:06:14 Saving model: 58000
+20200819-19:07:02 Iters:33/58100 loss: 1.3217 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:3 hours 1 mins 5 sec
+20200819-19:07:49 Iters:33/58200 loss: 1.4856 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:46 mins 8 sec
+20200819-19:08:37 Iters:33/58300 loss: 1.4585 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:46 mins 25 sec
+20200819-19:09:24 Iters:33/58400 loss: 1.7194 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:44 mins 25 sec
+20200819-19:10:11 Iters:33/58500 loss: 1.7532 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:44 mins 1 sec
+20200819-19:11:00 Iters:33/58600 loss: 1.9951 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:44 mins 23 sec
+20200819-19:11:47 Iters:33/58700 loss: 1.4340 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:42 mins 28 sec
+20200819-19:12:06 Training Epoch: 34/36
+20200819-19:12:36 Iters:34/58800 loss: 1.6671 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:43 mins 4 sec
+20200819-19:13:23 Iters:34/58900 loss: 1.3180 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:40 mins 55 sec
+20200819-19:14:10 Iters:34/59000 loss: 1.5857 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:39 mins 52 sec
+20200819-19:14:53 LFW Average Accuracy: 99.3667%
+20200819-19:15:35 AgeDB-30 Average Accuracy: 94.3333%
+20200819-19:16:24 CFP-FP Average Accuracy: 95.4429%
+20200819-19:16:24 Current Best Test Accuracy: LFW: 99.3833% in iters: 56000, AgeDB-30: 94.3333% in iters: 59000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:16:24 Saving model: 59000
+20200819-19:17:11 Iters:34/59100 loss: 1.5725 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:2 hours 29 mins 29 sec
+20200819-19:17:57 Iters:34/59200 loss: 1.4106 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:38 mins 11 sec
+20200819-19:18:44 Iters:34/59300 loss: 1.0478 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:37 mins 28 sec
+20200819-19:19:31 Iters:34/59400 loss: 1.7669 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:36 mins 25 sec
+20200819-19:20:18 Iters:34/59500 loss: 1.9187 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:36 mins 6 sec
+20200819-19:21:06 Iters:34/59600 loss: 1.9474 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:35 mins 31 sec
+20200819-19:21:53 Iters:34/59700 loss: 1.8347 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:34 mins 31 sec
+20200819-19:22:41 Iters:34/59800 loss: 1.2970 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:33 mins 46 sec
+20200819-19:23:28 Iters:34/59900 loss: 1.4957 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:32 mins 54 sec
+20200819-19:24:15 Iters:34/60000 loss: 1.5464 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:31 mins 53 sec
+20200819-19:24:57 LFW Average Accuracy: 99.3833%
+20200819-19:25:40 AgeDB-30 Average Accuracy: 94.1167%
+20200819-19:26:28 CFP-FP Average Accuracy: 95.5000%
+20200819-19:26:28 Current Best Test Accuracy: LFW: 99.3833% in iters: 60000, AgeDB-30: 94.1167% in iters: 60000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:26:28 Saving model: 60000
+20200819-19:27:16 Iters:34/60100 loss: 1.4529 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:2 hours 12 sec
+20200819-19:28:03 Iters:34/60200 loss: 1.7439 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:30 mins 39 sec
+20200819-19:28:51 Iters:34/60300 loss: 1.4038 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:29 mins 60 sec
+20200819-19:29:38 Iters:34/60400 loss: 1.2640 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:29 mins 11 sec
+20200819-19:30:26 Iters:34/60500 loss: 1.5437 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:28 mins 16 sec
+20200819-19:30:35 Training Epoch: 35/36
+20200819-19:31:14 Iters:35/60600 loss: 1.4536 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:27 mins 54 sec
+20200819-19:32:01 Iters:35/60700 loss: 1.9094 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:26 mins 51 sec
+20200819-19:32:49 Iters:35/60800 loss: 1.4882 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:26 mins 2 sec
+20200819-19:33:37 Iters:35/60900 loss: 1.1703 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:25 mins 20 sec
+20200819-19:34:24 Iters:35/61000 loss: 1.0253 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:24 mins 21 sec
+20200819-19:35:08 LFW Average Accuracy: 99.3667%
+20200819-19:35:51 AgeDB-30 Average Accuracy: 93.8500%
+20200819-19:36:39 CFP-FP Average Accuracy: 95.3857%
+20200819-19:36:39 Current Best Test Accuracy: LFW: 99.3833% in iters: 60000, AgeDB-30: 93.8500% in iters: 61000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:36:39 Saving model: 61000
+20200819-19:37:26 Iters:35/61100 loss: 1.4071 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 30 mins 23 sec
+20200819-19:38:13 Iters:35/61200 loss: 1.5889 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:22 mins 17 sec
+20200819-19:39:00 Iters:35/61300 loss: 1.6459 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:21 mins 59 sec
+20200819-19:39:47 Iters:35/61400 loss: 1.3629 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:21 mins 2 sec
+20200819-19:40:35 Iters:35/61500 loss: 1.6801 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:20 mins 25 sec
+20200819-19:41:22 Iters:35/61600 loss: 1.3343 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:19 mins 30 sec
+20200819-19:42:09 Iters:35/61700 loss: 1.6832 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:18 mins 44 sec
+20200819-19:42:56 Iters:35/61800 loss: 1.3615 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:17 mins 58 sec
+20200819-19:43:43 Iters:35/61900 loss: 0.8463 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:17 mins 4 sec
+20200819-19:44:30 Iters:35/62000 loss: 1.4361 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:16 mins 23 sec
+20200819-19:45:14 LFW Average Accuracy: 99.3833%
+20200819-19:45:56 AgeDB-30 Average Accuracy: 94.1833%
+20200819-19:46:44 CFP-FP Average Accuracy: 95.4714%
+20200819-19:46:44 Current Best Test Accuracy: LFW: 99.3833% in iters: 62000, AgeDB-30: 94.1833% in iters: 62000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:46:44 Saving model: 62000
+20200819-19:47:32 Iters:35/62100 loss: 1.9215 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 hours 1 sec
+20200819-19:48:19 Iters:35/62200 loss: 1.3750 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:14 mins 46 sec
+20200819-19:49:07 Iters:35/62300 loss: 1.5967 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:14 mins 2 sec
+20200819-19:49:07 Training Epoch: 36/36
+20200819-19:49:55 Iters:36/62400 loss: 1.0487 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:13 mins 32 sec
+20200819-19:50:42 Iters:36/62500 loss: 1.5596 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:12 mins 19 sec
+20200819-19:51:28 Iters:36/62600 loss: 1.6695 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:11 mins 19 sec
+20200819-19:52:15 Iters:36/62700 loss: 1.4246 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:10 mins 51 sec
+20200819-19:53:02 Iters:36/62800 loss: 1.2945 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:10 mins 7 sec
+20200819-19:53:50 Iters:36/62900 loss: 1.0638 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:9 mins 21 sec
+20200819-19:54:37 Iters:36/63000 loss: 1.1723 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:8 mins 31 sec
+20200819-19:55:19 LFW Average Accuracy: 99.3500%
+20200819-19:56:02 AgeDB-30 Average Accuracy: 93.9833%
+20200819-19:56:51 CFP-FP Average Accuracy: 95.4286%
+20200819-19:56:51 Current Best Test Accuracy: LFW: 99.3833% in iters: 62000, AgeDB-30: 93.9833% in iters: 63000 and CFP-FP: 95.5857% in iters: 58000
+20200819-19:56:51 Saving model: 63000
+20200819-19:57:38 Iters:36/63100 loss: 1.9395 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:29 mins 40 sec
+20200819-19:58:25 Iters:36/63200 loss: 1.6556 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:6 mins 54 sec
+20200819-19:59:13 Iters:36/63300 loss: 1.2470 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:6 mins 10 sec
+20200819-20:00:00 Iters:36/63400 loss: 1.3371 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:5 mins 23 sec
+20200819-20:00:47 Iters:36/63500 loss: 1.5009 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:4 mins 34 sec
+20200819-20:01:35 Iters:36/63600 loss: 1.5260 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:3 mins 47 sec
+20200819-20:02:22 Iters:36/63700 loss: 1.5017 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:2 mins 59 sec
+20200819-20:03:07 Iters:36/63800 loss: 1.0404 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:2 mins 9 sec
+20200819-20:03:54 Iters:36/63900 loss: 1.7233 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:1 mins 25 sec
+20200819-20:04:41 Iters:36/64000 loss: 1.0691 train accuracy:0.0 learning rate:0.0005000000000000001 remaining time:38 sec
+20200819-20:05:23 LFW Average Accuracy: 99.3333%
+20200819-20:06:06 AgeDB-30 Average Accuracy: 93.9333%
+20200819-20:06:54 CFP-FP Average Accuracy: 95.4286%
+20200819-20:06:54 Current Best Test Accuracy: LFW: 99.3833% in iters: 62000, AgeDB-30: 93.9333% in iters: 64000 and CFP-FP: 95.5857% in iters: 58000
+20200819-20:06:54 Saving model: 64000

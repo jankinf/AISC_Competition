@@ -1,0 +1,5 @@
+_background_
+left_eye
+right_eye
+nose
+mouth

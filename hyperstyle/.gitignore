@@ -1,0 +1,8 @@
+__pycache__/
+*.dat
+*.dat.bz2
+*.pt
+*.pkl
+*.png
+*.zip
+logs/

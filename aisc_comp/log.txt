@@ -1,0 +1,873 @@
+
+optmask_ct_eps45_steps20, inceptionresnetv1, mean cosine similarty,0.65017
+optmask_ct_eps40_steps20, inceptionresnetv1, mean cosine similarty,0.63929
+optmask_ct_eps35_steps20, inceptionresnetv1, mean cosine similarty,0.62608
+optmask_ct_eps45_steps30, inceptionresnetv1, mean cosine similarty,0.65249
+optmask_ct_eps35_steps30, inceptionresnetv1, mean cosine similarty,0.62786
+optmask_ct_eps40_steps30, inceptionresnetv1, mean cosine similarty,0.64143
+optmask_ct_eps45_steps40, inceptionresnetv1, mean cosine similarty,0.65354
+optmask_ct_eps40_steps40, inceptionresnetv1, mean cosine similarty,0.64241
+optmask_ct_eps35_steps40, inceptionresnetv1, mean cosine similarty,0.62875
+optmask_ct_eps40_steps50, inceptionresnetv1, mean cosine similarty,0.643
+optmask_ct_eps35_steps50, inceptionresnetv1, mean cosine similarty,0.62929
+optmask_ct_eps45_steps50, inceptionresnetv1, mean cosine similarty,0.65432
+optmask_ct_eps45_steps75, inceptionresnetv1, mean cosine similarty,0.65511
+optmask_ct_eps35_steps75, inceptionresnetv1, mean cosine similarty,0.62999
+optmask_ct_eps40_steps75, inceptionresnetv1, mean cosine similarty,0.64386
+optmask_ct_eps45_steps100, inceptionresnetv1, mean cosine similarty,0.65555
+optmask_ct_eps40_steps100, inceptionresnetv1, mean cosine similarty,0.64422
+optmask_ct_eps35_steps100, inceptionresnetv1, mean cosine similarty,0.63043
+optmask_pict_eps45_steps20, inceptionresnetv1, mean cosine similarty,0.73344
+optmask_pict_eps40_steps20, inceptionresnetv1, mean cosine similarty,0.72942
+optmask_pict_eps35_steps20, inceptionresnetv1, mean cosine similarty,0.72331
+optmask_clip_pict_eps35_steps20, inceptionresnetv1, mean cosine similarty,0.72329
+optmask_clip_pict_eps45_steps20, inceptionresnetv1, mean cosine similarty,0.73328
+optmask_pict_eps40_steps30, inceptionresnetv1, mean cosine similarty,0.73967
+optmask_pict_eps45_steps30, inceptionresnetv1, mean cosine similarty,0.74493
+optmask_clip_pict_eps40_steps30, inceptionresnetv1, mean cosine similarty,0.73982
+optmask_pict_eps45_steps40, inceptionresnetv1, mean cosine similarty,0.74992
+optmask_clip_pict_eps40_steps20, inceptionresnetv1, mean cosine similarty,0.72925
+optmask_clip_pict_eps45_steps30, inceptionresnetv1, mean cosine similarty,0.74482
+optmask_pict_eps35_steps40, inceptionresnetv1, mean cosine similarty,0.7357
+optmask_clip_pict_eps35_steps30, inceptionresnetv1, mean cosine similarty,0.73208
+optmask_pict_eps40_steps40, inceptionresnetv1, mean cosine similarty,0.74398
+optmask_clip_pict_eps45_steps40, inceptionresnetv1, mean cosine similarty,0.74996
+optmask_pict_eps35_steps50, inceptionresnetv1, mean cosine similarty,0.73735
+optmask_clip_pict_eps40_steps40, inceptionresnetv1, mean cosine similarty,0.74402
+optmask_pict_eps35_steps30, inceptionresnetv1, mean cosine similarty,0.73204
+optmask_pict_eps40_steps50, inceptionresnetv1, mean cosine similarty,0.74618
+optmask_clip_pict_eps40_steps50, inceptionresnetv1, mean cosine similarty,0.74616
+optmask_clip_pict_eps35_steps40, inceptionresnetv1, mean cosine similarty,0.73561
+optmask_pict_eps45_steps50, inceptionresnetv1, mean cosine similarty,0.75234
+optmask_clip_pict_eps35_steps50, inceptionresnetv1, mean cosine similarty,0.73748
+optmask_clip_pict_eps45_steps50, inceptionresnetv1, mean cosine similarty,0.75235
+optmask_pict_eps35_steps75, inceptionresnetv1, mean cosine similarty,0.73915
+optmask_pict_eps45_steps75, inceptionresnetv1, mean cosine similarty,0.75451
+optmask_pict_eps40_steps75, inceptionresnetv1, mean cosine similarty,0.74789
+optmask_pict_eps40_steps100, inceptionresnetv1, mean cosine similarty,0.74861
+optmask_pict_eps35_steps100, inceptionresnetv1, mean cosine similarty,0.73981
+optmask_pict_eps45_steps100, inceptionresnetv1, mean cosine similarty,0.75505
+
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.23084
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.4122
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41753
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.42668
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41795
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.40934
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41608
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41584
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41041
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41389
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.376
+optmask_pict_eps40_steps20_ens10, ens10, mean cosine similarty,0.41306
+optmask_pict_eps40_steps20_ens1_model6, ens1, mean cosine similarty,0.45421
+optmask_pict_eps40_steps20_ens1_model2, ens1, mean cosine similarty,0.35504
+optmask_pict_eps40_steps20_ens1_model3, ens1, mean cosine similarty,0.53088
+optmask_pict_eps40_steps20_ens1_model5, ens1, mean cosine similarty,0.52328
+optmask_pict_eps40_steps20_ens1_model7, ens1, mean cosine similarty,0.51211
+optmask_pict_eps40_steps20_ens1_model4, ens1, mean cosine similarty,0.50979
+optmask_pict_eps40_steps20_ens1_model8, ens1, mean cosine similarty,0.51004
+optmask_pict_eps40_steps20_ens1_model9, ens1, mean cosine similarty,0.40311
+debug, ens1, mean cosine similarty,0.25795
+debug, ens1, mean cosine similarty,0.44022
+debug, ens1, mean cosine similarty,0.28477
+optmask_pict_eps40_steps20_ens1_model1, ens1, mean cosine similarty,0.72836
+optmask_pict_eps40_steps20_ens1_model0, ens1, mean cosine similarty,0.73061
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.47302
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.46631
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.47035
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.47103
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.48634
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.47183
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.38411
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.49238
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.4841
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.13701
+optmask_pict_eps40_steps20_ens4_model, ens1, mean cosine similarty,0.43329
+optmask_pict_eps40_steps20_ens2_model17, ens1, mean cosine similarty,0.51165
+optmask_pict_eps40_steps20_ens2_model18, ens1, mean cosine similarty,0.50996
+optmask_pict_eps40_steps20_ens2_model08, ens1, mean cosine similarty,0.51009
+optmask_pict_eps40_steps20_ens2_model07, ens1, mean cosine similarty,0.51265
+optmask_pict_eps40_steps20_ens3_model018, ens1, mean cosine similarty,0.50981
+optmask_pict_eps40_steps20_ens3_model178, ens1, mean cosine similarty,0.47937
+optmask_pict_eps40_steps20_ens2_model78, ens1, mean cosine similarty,0.48003
+optmask_pict_eps40_steps20_ens3_model017, ens1, mean cosine similarty,0.51241
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.9744
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.98306
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.96908
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.98543
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.96083
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.97382
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.97794
+optmask_pict_catfeat_eps40_steps20_ens2_model01, ens1, mean cosine similarty,0.12126
+optmask_pict_catfeat_eps40_steps20_ens4_model0178, ens1, mean cosine similarty,0.6225
+optmask_pict_catfeat_eps40_steps20_ens10_all, ens1, mean cosine similarty,0.81794
+optmask_dem_v2_eps40_steps20_bound6_n15_ens1, ens1, mean cosine similarty,0.58625
+optmask_dem_v2_eps40_steps20_bound6_n25_ens1, ens1, mean cosine similarty,0.60774
+optmask_dem_v2_eps40_steps20_bound5_n20_ens1, ens1, mean cosine similarty,0.60755
+optmask_dem_v2_eps40_steps20_bound5_n15_ens1, ens1, mean cosine similarty,0.59594
+optmask_dem_v2_eps40_steps20_bound5_n25_ens1, ens1, mean cosine similarty,0.61711
+optmask_dem_v2_eps40_steps20_bound7_n15_ens1, ens1, mean cosine similarty,0.57856
+optmask_dem_v2_eps40_steps20_bound6_n20_ens1, ens1, mean cosine similarty,0.59813
+optmask_dem_v2_eps40_steps20_bound7_n20_ens1, ens1, mean cosine similarty,0.5911
+optmask_dem_v2_eps40_steps20_bound7_n25_ens1, ens1, mean cosine similarty,0.60058
+optmask_dem_v2_eps16_steps5_bound7_n25_ens1, ens1, mean cosine similarty,0.47019
+optmask_dem_v2_eps16_steps5_bound7_n25_ens1, ens1, mean cosine similarty,0.0426
+optmask_dem_v2_eps20_steps10_bound7_n25_ens1, ens1, mean cosine similarty,0.51299
+optmask_dem_v2_eps20_steps10_bound7_n25_ens1, ens1, mean cosine similarty,0
+optmask_dem_v2_eps20_steps10_bound7_n25_ens1, ens1, mean cosine similarty,0
+optmask_dem_v2_eps16_steps10_bound7_n25_ens1, ens1, mean cosine similarty,0.4187
+optmask_dem_v2_eps20_steps10_bound7_n25_ens1, ens1, mean cosine similarty,0
+optmask_dem_v2_eps40_steps5_bound7_n20_ens1, ens1, mean cosine similarty,0.54269
+optmask_dem_v2_eps40_steps5_bound7_n20_ens1, ens1, mean cosine similarty,0.41215
+optmask_dem_v2_eps40_steps5_bound7_n20_ens1, ens1, mean cosine similarty,0.42559
+optmask_dem_v2_eps40_steps20_bound7_n20_ens1, ens1, mean cosine similarty,0.57135
+optmask_dem_v2_eps40_steps20_bound7_n20_ens1, ens1, mean cosine similarty,0.39791
+optmask_dem_v2_eps40_steps20_bound7_n20_ens1, ens1, mean cosine similarty,0.22303
+optmask_dem_v2_eps40_steps20_bound7_n20_ens1, ens1, mean cosine similarty,0.00383
+optmask_dem_v2_eps40_steps10_bound7_n20_ens1, ens1, mean cosine similarty,0.5632
+optmask_dem_v2_eps40_steps10_bound7_n20_ens1, ens1, mean cosine similarty,0.09195
+optmask_dem_v2_eps40_steps5_bound7_n20_ens1, ens1, mean cosine similarty,0
+optmask_dem_v2_eps40_steps10_bound7_n20_ens1, ens1, mean cosine similarty,0
+optmask_dem_v2_eps40_steps10_bound7_n20_ens1, ens1, mean cosine similarty,0.00381
+optmask_pict_catfeat_fill_eps40_steps5_ens4_model0178, ens1, mean cosine similarty,0.5275
+optmask_pict_catfeat_fill_eps40_steps10_ens4_model0178, ens1, mean cosine similarty,0.58168
+optmask_pict_catfeat_fill_eps40_steps20_ens4_model0178, ens1, mean cosine similarty,0.60174
+optmask_pict_catfeat_fill_eps40_steps30_ens4_model0178, ens1, mean cosine similarty,0.60442
+optmask_pict_catfeat_fill_eps40_steps60_ens4_model0178, ens1, mean cosine similarty,0.60512
+optmask_pict_catfeat_fill_eps40_steps70_ens4_model0178, ens1, mean cosine similarty,0.60486
+optmask_pict_catfeat_fill_eps40_steps50_ens4_model0178, ens1, mean cosine similarty,0.60535
+optmask_pict_catfeat_fill_eps40_steps40_ens4_model0178, ens1, mean cosine similarty,0.60491
+optmask_pict_catfeat_fill_eps40_steps100_ens4_model0178, ens1, mean cosine similarty,0.60513
+optmask_pict_catfeat_fill_eps40_steps150_ens4_model0178, ens1, mean cosine similarty,0.60481
+optmask_pict_catfeat_fill_eps40_steps200_ens4_model0178, ens1, mean cosine similarty,0.60487
+optmask_pict_catfeat_fill_eps40_steps0_ens4_model0178, ens1, mean cosine similarty,0.30961
+optmask_ct_catfeat_fill_alpha1.6_steps10_ens4_model0178, ens1, mean cosine similarty,0.47175
+optmask_ct_catfeat_fill_alpha1.6_steps20_ens4_model0178, ens1, mean cosine similarty,0.54254
+optmask_ct_catfeat_fill_alpha1.6_steps5_ens4_model0178, ens1, mean cosine similarty,0.41246
+optmask_ct_catfeat_fill_alpha1.6_steps40_ens4_model0178, ens1, mean cosine similarty,0.5991
+optmask_ct_catfeat_fill_alpha1.6_steps60_ens4_model0178, ens1, mean cosine similarty,0.60148
+optmask_ct_catfeat_fill_alpha1.6_steps30_ens4_model0178, ens1, mean cosine similarty,0.58012
+optmask_ct_catfeat_fill_alpha1.6_steps100_ens4_model0178, ens1, mean cosine similarty,0.49012
+optmask_ct_catfeat_fill_alpha1.6_steps100_ens4_model0178, ens1, mean cosine similarty,0.47537
+optmask_ct_catfeat_fill_alpha1.6_steps100_ens4_model0178, ens1, mean cosine similarty,0.53447
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.90062
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.64278
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.84167
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.55906
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.42183
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.65666
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.46655
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.64891
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.4527
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.43949
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.68636
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.39431
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.43818
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.59984
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.5684
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.49244
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.44431
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,1.425
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.43726
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.59253
+optmask_anda_catfeat_fill_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.27309
+beval_ct_cos_catfeat_fill_alpha0.8_steps50_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps50_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha3.2_steps50_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps50_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha0.8_steps50_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha3.2_steps100_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps100_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha3.2_steps50_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha0.8_steps100_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.2_steps50_ens4_model0178_bmodel347, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps50_ens4_model0178_bmodel347, ens1, mean cosine similarty,0.0
+optmask_pict_catfeat_fill_eps40_steps50_ens1_model0, ens1, mean cosine similarty,0.73401
+optmask_pict_catfeat_fill_eps40_steps50_ens1_model1, ens1, mean cosine similarty,0.72801
+optmask_pict_catfeat_fill_eps40_steps50_ens1_model7, ens1, mean cosine similarty,0.49006
+optmask_pict_catfeat_fill_eps40_steps50_ens1_model8, ens1, mean cosine similarty,0.48574
+beval_ct_cos_catfeat_fill_alpha3.2_steps50_ens4_model0178_bmodel234569, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps50_ens4_model0178_bmodel234569, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_multitgt_alpha1.6_steps50_ens2_model0178_bmodel347, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_multitgt_alpha1.2_steps50_ens2_model0178_bmodel347, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.2_steps50_ens4_model0178_bmodel234569, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha3.2_steps200_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_multitgt_alpha3.2_steps50_ens2_model0178_bmodel347, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha0.8_steps100_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha3.2_steps100_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps100_ens9_model013456789_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha1.6_steps200_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+beval_ct_cos_catfeat_fill_alpha0.8_steps200_ens4_model0178_bmodel2, ens1, mean cosine similarty,0.0
+optmask_ct_catfeat_fill@square_bottom_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.33233
+optmask_ct_catfeat_fill@square_center_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.39704
+optmask_ct_catfeat_fill@square_top_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.11339
+optmask_ct_catfeat_fill@square_center_alpha1.6_steps50_ens4_model0178, ens1, mean cosine similarty,0.38127
+optmask_ds_l2@hiltert_m5_alpha0.3_steps60_ens4_model0178, ens1, mean cosine similarty,0.75949
+optmask_ds_l2@hiltert_m5_alpha0.35_steps60_ens4_model0178, ens1, mean cosine similarty,0.7846
+optmask_ds_l2@comp_keypoint_alpha0.4_steps60_ens4_model0178, ens1, mean cosine similarty,0.73575
+optmask_ds_l2@hiltert_m7_alpha0.35_steps60_ens4_model0178, ens1, mean cosine similarty,0.71791
+optmask_ds_l2@hiltert_m5_alpha0.4_steps60_ens4_model0178, ens1, mean cosine similarty,0.80597
+optmask_ds_l2@raw_keypoint_alpha0.4_steps60_ens4_model0178, ens1, mean cosine similarty,0.73562
+optmask_ds_l2@raw_keypoint_alpha0.3_steps60_ens4_model0178, ens1, mean cosine similarty,0.7216
+optmask_ds_l2@hiltert_m7_alpha0.4_steps60_ens4_model0178, ens1, mean cosine similarty,0.73575
+optmask_ds_l2@comp_keypoint_alpha0.35_steps60_ens4_model0178, ens1, mean cosine similarty,0.72985
+optmask_ds_l2@comp_keypoint_alpha0.3_steps60_ens4_model0178, ens1, mean cosine similarty,0.72327
+optmask_ds_l2@hiltert_m7_alpha0.3_steps60_ens4_model0178, ens1, mean cosine similarty,0.695
+optmask_ds_l2@raw_keypoint_alpha0.35_steps60_ens4_model0178, ens1, mean cosine similarty,0.73021
+optmask_ds_l2@comp_keypoint_alpha0.4_steps70_ens4_model0178, ens1, mean cosine similarty,nan
+optmask_ds_l2@hiltert_m7_alpha0.35_steps70_ens4_model0178, ens1, mean cosine similarty,0.73949
+optmask_ds_l2@raw_keypoint_alpha0.3_steps70_ens4_model0178, ens1, mean cosine similarty,0.73161
+optmask_ds_l2@hiltert_m5_alpha0.35_steps70_ens4_model0178, ens1, mean cosine similarty,0.8101
+optmask_ds_l2@raw_keypoint_alpha0.4_steps70_ens4_model0178, ens1, mean cosine similarty,0.74431
+optmask_ds_l2@raw_keypoint_alpha0.35_steps70_ens4_model0178, ens1, mean cosine similarty,0.73951
+optmask_ds_l2@hiltert_m7_alpha0.3_steps70_ens4_model0178, ens1, mean cosine similarty,0.71869
+optmask_ds_l2@hiltert_m5_alpha0.3_steps70_ens4_model0178, ens1, mean cosine similarty,0.78663
+optmask_ds_l2@hiltert_m5_alpha0.4_steps70_ens4_model0178, ens1, mean cosine similarty,0.82929
+optmask_ds_l2@comp_keypoint_alpha0.35_steps70_ens4_model0178, ens1, mean cosine similarty,0.73829
+optmask_ds_l2@hiltert_m7_alpha0.4_steps70_ens4_model0178, ens1, mean cosine similarty,0.75468
+optmask_ds_l2@comp_keypoint_alpha0.3_steps70_ens4_model0178, ens1, mean cosine similarty,0.73223
+optmask_ds_l2@comp_keypoint_alpha0.31_steps60_ens4_model0178, ens1, mean cosine similarty,0.72417
+optmask_ds_l2@comp_keypoint_alpha0.29_steps60_ens4_model0178, ens1, mean cosine similarty,0.72042
+optmask_ds_l2@comp_keypoint_alpha0.32_steps60_ens4_model0178, ens1, mean cosine similarty,0.72631
+optmask_ds_l2@comp_keypoint_alpha0.28_steps60_ens4_model0178, ens1, mean cosine similarty,0.71878
+optmask_ds_l2@comp_keypoint_alpha0.25_steps60_ens4_model0178, ens1, mean cosine similarty,0.71214
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps30_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.57179
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps30_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.6313
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps30_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.55452
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps30_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.59444
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps40_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.61649
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps40_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.59248
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps40_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.6553
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps40_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.57573
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps50_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67134
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps50_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.63195
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.60124
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps50_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.59022
+optmask_dem_v2_l2@comp_keypoint_alpha0.22_steps60_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.63623
+optmask_dem_v2_l2@comp_keypoint_alpha0.28_steps60_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.62396
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.64353
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.55145
+optmask_dem_v2_l2@comp_keypoint_alpha0.22_steps60_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.59465
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps50_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.60719
+optmask_dem_v2_l2@comp_keypoint_alpha0.3_steps60_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.62693
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.68369
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.59771
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.57732
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps60_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.59639
+optmask_dem_v2_l2@comp_keypoint_alpha0.28_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.68942
+optmask_dem_v2_l2@comp_keypoint_alpha0.3_steps60_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.65198
+optmask_dem_v2_l2@comp_keypoint_alpha0.28_steps60_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.60635
+optmask_dem_v2_l2@comp_keypoint_alpha0.3_steps60_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.60934
+optmask_dem_v2_l2@comp_keypoint_alpha0.28_steps60_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.64909
+optmask_dem_v2_l2@comp_keypoint_alpha0.22_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67687
+optmask_dem_v2_l2@comp_keypoint_alpha0.22_steps60_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.61149
+optmask_dem_v2_l2@comp_keypoint_alpha0.3_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.69243
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps70_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.6095
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps70_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.65201
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps70_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.62694
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps70_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.69288
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps90_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.70626
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps90_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.66393
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps90_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.62219
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps90_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.63874
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps120_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.71859
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps120_n5_bound3ens4_model0178, ens1, mean cosine similarty,0.63417
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps150_n5_bound2ens4_model0178, ens1, mean cosine similarty,0.68489
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps150_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.72697
+optmask_dem_v2_l2@comp_keypoint_alpha0.25_steps150_n5_bound2.5ens4_model0178, ens1, mean cosine similarty,0.65936
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.63019
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.63046
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n7_bound1.5ens4_model0178, ens1, mean cosine similarty,0.62842
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65533
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n6_bound1.5ens4_model0178, ens1, mean cosine similarty,0.62944
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65622
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67633
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n7_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65371
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n6_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65479
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n8_bound1.5ens4_model0178, ens1, mean cosine similarty,0.62772
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n6_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67471
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67588
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n9_bound1.5ens4_model0178, ens1, mean cosine similarty,0.628
+
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n7_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67365
+dem_mi@comp_keypoint_alpha0.00627_steps40_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36434
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n9_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65338
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n8_bound1.5ens4_model0178, ens1, mean cosine similarty,0.65316
+dem_mi@comp_keypoint_alpha0.00627_steps40_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36432
+
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps40_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,98.86829
+optmask_dem@comp_keypoint_alpha0.00627_steps40_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,108.73496
+dem_mi@comp_keypoint_alpha0.00627_steps50_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36469
+optmask_dem@comp_keypoint_alpha0.00627_steps40_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,108.62496
+dem_mi@comp_keypoint_alpha0.00627_steps50_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36467
+dem_mi@comp_keypoint_alpha0.00627_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36494
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n9_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67299
+dem_mi@comp_keypoint_alpha0.00627_steps60_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.36497
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n8_bound1.5ens4_model0178, ens1, mean cosine similarty,0.67278
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps60_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,0.74365
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps40_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,98.01204
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps50_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,101.22174
+optmask_dem@comp_keypoint_alpha0.00627_steps50_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,112.60319
+optmask_dem@comp_keypoint_alpha0.00627_steps60_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,115.79941
+optmask_dem@comp_keypoint_alpha0.00627_steps50_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,112.81519
+
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps50_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,100.33491
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps60_n4_bound1.5ens4_model0178, ens1, mean cosine similarty,103.24785
+optmask_dem_mi@comp_keypoint_alpha0.00627_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,102.23281
+optmask_dem@comp_keypoint_alpha0.00627_steps60_n5_bound1.5ens4_model0178, ens1, mean cosine similarty,115.6462
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74153
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75547
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75059
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73063
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76021
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76348
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7394
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74986
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7458
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps20_n4_bound1.5ens7_model0126789, ens1, mean cosine similarty,0.85453
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7785
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76241
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74823
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74429
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76098
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76857
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76603
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75863
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75464
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75592
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7659
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77306
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76268
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77816
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77464
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76866
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78467
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77649
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75697
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78147
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7661
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77016
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77826
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77054
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78068
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76692
+optmask_di_l2@comp_keypoint_alpha0.28_steps60_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76893
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77914
+optmask_di_l2@comp_keypoint_alpha0.34_steps60_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78817
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76222
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77331
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78117
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps25_n4_bound1.5ens7_model0126789, ens1, mean cosine similarty,0.90403
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73814
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73145
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7122
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74811
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73673
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.72736
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.72221
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74237
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.72232
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73296
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74055
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73699
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74919
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73865
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75271
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.72655
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73073
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76267
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75835
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74566
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75019
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75431
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74669
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.73829
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74451
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74521
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74864
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76063
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76983
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75351
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76192
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75778
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75221
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75694
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps30_n4_bound1.5ens7_model0126789, ens1, mean cosine similarty,0.9439
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75849
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76584
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76337
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75067
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76142
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76554
+optmask_di_l2@comp_keypoint_alpha0.3_steps50_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75764
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77006
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76509
+optmask_di_l2@comp_keypoint_alpha0.34_steps50_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77318
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74486
+optmask_di_l2@comp_keypoint_alpha0.28_steps50_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75291
+optmask_di_l2@comp_keypoint_alpha0.25_steps50_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75305
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75303
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75928
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76323
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77659
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75447
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77327
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.74534
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.75934
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n1_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76619
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n1_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76832
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n1_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76485
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78971
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78643
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78096
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77495
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76794
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n2_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77907
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77171
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77327
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78319
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76136
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n2_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77854
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n2_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76908
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78639
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7756
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77935
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.76996
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7865
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79728
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77767
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78318
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n3_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79037
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n3_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79347
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78886
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n3_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78156
+
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78236
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79306
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78572
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n4_rr1.2_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77514
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7974
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78337
+optmask_di_l2@comp_keypoint_alpha0.3_steps70_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79097
+optmask_di_l2@comp_keypoint_alpha0.34_steps70_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.80005
+optmask_di_l2@comp_keypoint_alpha0.25_steps70_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78032
+optmask_di_l2@comp_keypoint_alpha0.28_steps70_n4_rr1.1_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.79008
+optmask_dem_v2_l2_worigin@comp_keypoint_alpha0.25_steps60_n4_bound1.5ens7_model0126789, ens1, mean cosine similarty,1.07916
+
+optmask_bim_l2@comp_keypoint_alpha0.3_steps40_ens4_model0178, ens1, mean cosine similarty,0.75898
+optmask_bim_l2@comp_keypoint_alpha0.28_steps40_ens4_model0178, ens1, mean cosine similarty,0.75438
+optmask_bim_l2@comp_keypoint_alpha0.25_steps40_ens4_model0178, ens1, mean cosine similarty,0.74649
+optmask_bim_l2@comp_keypoint_alpha0.25_steps50_ens4_model0178, ens1, mean cosine similarty,0.7694
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.5_ens4_model0178, ens1, mean cosine similarty,0.70217
+optmask_bim_l2@comp_keypoint_alpha0.28_steps60_ens4_model0178, ens1, mean cosine similarty,0.79379
+optmask_bim_l2@comp_keypoint_alpha0.3_steps50_ens4_model0178, ens1, mean cosine similarty,0.78088
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.68083
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.66776
+optmask_bim_l2@comp_keypoint_alpha0.3_steps60_ens4_model0178, ens1, mean cosine similarty,0.79761
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.65166
+optmask_bim_l2@comp_keypoint_alpha0.25_steps60_ens4_model0178, ens1, mean cosine similarty,0.787
+optmask_bim_l2@comp_keypoint_alpha0.28_steps50_ens4_model0178, ens1, mean cosine similarty,0.77663
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.6893
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.71927
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.76431
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.68684
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.69906
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.75443
+optmask_bim_l2@comp_keypoint_alpha0.28_steps90_ens4_model0178, ens1, mean cosine similarty,0.82828
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.5_ens4_model0178, ens1, mean cosine similarty,0.73472
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.72853
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.7331
+optmask_bim_l2@comp_keypoint_alpha0.28_steps80_ens4_model0178, ens1, mean cosine similarty,0.81868
+optmask_bim_l2@comp_keypoint_alpha0.3_steps90_ens4_model0178, ens1, mean cosine similarty,0.83178
+optmask_bim_l2@comp_keypoint_alpha0.25_steps80_ens4_model0178, ens1, mean cosine similarty,0.81279
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.5_ens4_model0178, ens1, mean cosine similarty,0.78517
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.74105
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.74175
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.5_ens4_model0178, ens1, mean cosine similarty,0.79074
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.6_ens4_model0178, ens1, mean cosine similarty,0.78405
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.5_ens4_model0178, ens1, mean cosine similarty,0.7485
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.7115
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.74945
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.76126
+optmask_bim_l2@comp_keypoint_alpha0.25_steps90_ens4_model0178, ens1, mean cosine similarty,0.82259
+
+optmask_bim_l2@comp_keypoint_alpha0.3_steps40_ens7_model0126789, ens1, mean cosine similarty,1.03336
+optmask_bim_l2@comp_keypoint_alpha0.28_steps40_ens7_model0126789, ens1, mean cosine similarty,1.02404
+optmask_bim_l2@comp_keypoint_alpha0.25_steps40_ens7_model0126789, ens1, mean cosine similarty,1.00776
+optmask_bim_l2@comp_keypoint_alpha0.28_steps60_ens7_model0126789, ens1, mean cosine similarty,1.09661
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.8_ens7_model0126789, ens1, mean cosine similarty,1.07396
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.6_ens7_model0126789, ens1, mean cosine similarty,1.04637
+optmask_bim_l2@comp_keypoint_alpha0.25_steps60_ens7_model0126789, ens1, mean cosine similarty,1.0811
+optmask_bim_l2@comp_keypoint_alpha0.28_steps50_ens7_model0126789, ens1, mean cosine similarty,1.06459
+optmask_bim_l2@comp_keypoint_alpha0.3_steps50_ens7_model0126789, ens1, mean cosine similarty,1.07371
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.8_ens7_model0126789, ens1, mean cosine similarty,1.00348
+
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.5_ens7_model0126789, ens1, mean cosine similarty,1.0587
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n1_rr1.15_dp0.9_ens7_model0126789, ens1, mean cosine similarty,0.96999
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.6_ens7_model0126789, ens1, mean cosine similarty,1.10917
+optmask_bim_l2@comp_keypoint_alpha0.25_steps50_ens7_model0126789, ens1, mean cosine similarty,1.04907
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.15_dp0.8_ens7_model0126789, ens1, mean cosine similarty,1.03078
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.5_ens7_model0126789, ens1, mean cosine similarty,1.11818
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n1_rr1.15_dp0.6_ens7_model0126789, ens1, mean cosine similarty,1.07441
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.9_ens7_model0126789, ens1, mean cosine similarty,1.0145
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.9_ens7_model0126789, ens1, mean cosine similarty,1.03704
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.9_ens7_model0126789, ens1, mean cosine similarty,1.04388
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n3_rr1.15_dp0.5_ens7_model0126789, ens1, mean cosine similarty,1.10852
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.5_ens7_model0126789, ens1, mean cosine similarty,1.13598
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.9_ens7_model0126789, ens1, mean cosine similarty,1.06397
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n3_rr1.15_dp0.6_ens7_model0126789, ens1, mean cosine similarty,1.12928
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.8_ens7_model0126789, ens1, mean cosine similarty,1.04549
+optmask_di_l2@comp_keypoint_alpha0.3_steps60_n2_rr1.15_dp0.8_ens7_model0126789, ens1, mean cosine similarty,1.07433
+optmask_di_l2@comp_keypoint_alpha0.25_steps60_n2_rr1.15_dp0.5_ens7_model0126789, ens1, mean cosine similarty,1.09149
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n4_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.76395
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n4_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.74526
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.77747
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n5_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78154
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n5_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.76794
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n5_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.74865
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n6_rr1.15_dp0.9_ens4_model0178, ens1, mean cosine similarty,0.75093
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n6_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.77
+optmask_di_l2@raw_keypoint_alpha0.3_steps60_n6_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78343
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.68839
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n4_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.67856
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78285
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n4_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.70122
+optmask_di_l2@comp_keypoint_v2_alpha0.3_steps60_n4_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.76975
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n4_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.77209
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n4_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.71453
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n5_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78541
+optmask_di_l2@comp_keypoint_v2_alpha0.3_steps60_n5_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78529
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n5_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.71744
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n5_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.77466
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n5_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.68136
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n5_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.69094
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n5_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.7049
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n6_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.7869
+optmask_di_l2@comp_keypoint_3p_2eye_1nose_alpha0.3_steps60_n6_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.77636
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n6_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.69245
+optmask_di_l2@comp_keypoint_v2_alpha0.3_steps60_n6_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.78777
+optmask_di_l2@comp_keypoint_v2_alpha0.3_steps60_n6_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.77511
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n6_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.70699
+optmask_di_l2_adaw@comp_keypoint_v2_alpha0.3_steps60_n4_rr1.15_dp0.7_tem3_ens4_model0178, ens1, mean cosine similarty,0.74592
+optmask_di_l2_adaw@comp_keypoint_v2_alpha0.3_steps60_n4_rr1.15_dp0.7_tem1_ens4_model0178, ens1, mean cosine similarty,0.78922
+optmask_di_l2@comp_keypoint_3p_2eye_1mouse_alpha0.3_steps60_n6_rr1.15_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.71989
+optmask_di_l2_adaw@comp_keypoint_v2_alpha0.3_steps60_n4_rr1.15_dp0.7_tem2_ens4_model0178, ens1, mean cosine similarty,0.78018
+optmask_di_l2@comp_keypoint_2p_2eye_alpha0.3_steps60_n6_rr1.15_dp0.8_ens4_model0178, ens1, mean cosine similarty,0.68317
+optmask_di_l2_adaw@comp_keypoint_v2_alpha0.3_steps60_n4_rr1.15_dp0.7_tem4_ens4_model0178, ens1, mean cosine similarty,0.74327
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,nan
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps60_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.52485
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps60_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.51637
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps60_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.52186
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps60_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.52641
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps60_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.52138
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps60_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.52931
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.54923
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps60_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.5242
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps60_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.532
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps60_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.5292
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps120_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55357
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55149
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.54499
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps120_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55758
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps120_n4_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55984
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55544
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55322
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.54929
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55558
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps120_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.56356
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps120_n6_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.56154
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.55768
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps120_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.56529
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps120_n8_rr1.3_dp0.7_ens4_model0178, ens1, mean cosine similarty,0.56353
+
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps120_n4_rr1.3_dp0.7_ens4_model0178
+
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n6_rr1.3_dp0.7_ens4_model0178
+optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n4_rr1.3_dp0.7_ens4_model0178
+
+
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n4_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n4_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n4_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n6_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n6_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.25_steps100_n6_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.28_steps100_n8_rr1.3_dp0.7_ens4_model0178
+/data/projects/aisc_facecomp/results/optmask_di_l2@comp_keypoint_v2_bugfix_alpha0.3_steps100_n8_rr1.3_dp0.7_ens4_model0178ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.07885
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.12155
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.28833
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.56269
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.56235
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.56136
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.56083
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.56303
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.47711
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.47565
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.48142
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.48321
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.4778
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.47967
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.47405
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.47673
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54396
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.42399
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54044
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.43322
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54276
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.53927
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.43508
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54186
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.42942
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.44184
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54502
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54173
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.44337
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.44103
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.54094
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_ens01378,inceptionresnetv1,mean cosine similarty,0.44759
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model12,inceptionresnetv1,mean cosine similarty,0.59204
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model12,inceptionresnetv1,mean cosine similarty,0.58253
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model12,inceptionresnetv1,mean cosine similarty,0.58724
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model12,inceptionresnetv1,mean cosine similarty,0.57635
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.61676
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.59324
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.58451
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.40131
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.62238
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.60299
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.40433
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model13,inceptionresnetv1,mean cosine similarty,0.6026
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model11,inceptionresnetv1,mean cosine similarty,0.60618
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model11,inceptionresnetv1,mean cosine similarty,0.61362
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model10,inceptionresnetv1,mean cosine similarty,0.61938
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model10,inceptionresnetv1,mean cosine similarty,0.60993
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_12_13,inceptionresnetv1,mean cosine similarty,0.5469
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_12_13,inceptionresnetv1,mean cosine similarty,0.55803
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_12_13,inceptionresnetv1,mean cosine similarty,0.56038
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_12_13,inceptionresnetv1,mean cosine similarty,0.55681
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_11_12_13,inceptionresnetv1,mean cosine similarty,0.57022
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_11_12_13,inceptionresnetv1,mean cosine similarty,0.5658
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_11_12_13,inceptionresnetv1,mean cosine similarty,0.55911
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_11_12_13,inceptionresnetv1,mean cosine similarty,0.56524
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_11_12_13,inceptionresnetv1,mean cosine similarty,0.54591
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_11_12_13,inceptionresnetv1,mean cosine similarty,0.55172
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_11_12_13,inceptionresnetv1,mean cosine similarty,0.54837
+ct_steps100_alpha0.3_rr1.3_dp1.0_d1_comp_v2_ord2_model_10_11_12_13,inceptionresnetv1,mean cosine similarty,0.53849
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model_12_13,inceptionresnetv1,mean cosine similarty,0.55864
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model_12_13,inceptionresnetv1,mean cosine similarty,0.5612
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model_12_13,inceptionresnetv1,mean cosine similarty,0.55058
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model_12_13,inceptionresnetv1,mean cosine similarty,0.55764
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52245
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52258
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52755
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52142
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52375
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52374
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52552
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model0134578,inceptionresnetv1,mean cosine similarty,0.52636
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.53241
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.46367
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.53499
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.44536
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.53685
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.49378
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.53451
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.49792
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.54529
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.53862
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.54204
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.53995
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.54527
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.5401
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.53946
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model017813,inceptionresnetv1,mean cosine similarty,0.54426
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.5261
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52318
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52784
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52298
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52412
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52703
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.52481
+ct_steps80_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.5219
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53419
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53221
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53182
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53318
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53126
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53306
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53521
+ct_steps100_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model014578,inceptionresnetv1,mean cosine similarty,0.53647
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54103
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54052
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.53939
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54426
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54298
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54182
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54566
+ct_steps120_alpha0.3_rr1.3_dp1.0_d4_comp_v2_ord2_model013478,inceptionresnetv1,mean cosine similarty,0.54209
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49496
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50491
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49376
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49227
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49741
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49561
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50135
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49141
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49779
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49897
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49964
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49751
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.4923
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49597
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49093
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49309
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50363
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50783
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50893
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50683
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50105
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50226
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50119
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50281
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51127
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51053
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51667
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50969
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50461
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51079
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50514
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50451
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.5056
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51025
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51636
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50945
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51262
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50961
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51647
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50359
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51418
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50858
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50689
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51254
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50992
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51545
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51016
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50848
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.47222
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.47033
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.46982
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.46838
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.47519
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.47141
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.47522
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.46635
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50538
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50356
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.4999
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50082
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50626
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50105
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49817
+ct_steps80_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.4992
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50268
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50967
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50889
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50417
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.5127
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50295
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50025
+ct_steps100_alpha0.3_rr1.3_dp1.0_d7_origin_tmode_v2_cmp_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50422
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51398
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51513
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51965
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.52058
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51671
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51717
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51511
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.52193
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51545
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50988
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51835
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51137
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51124
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51324
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51692
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v2_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51291
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.49555
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.49924
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.50267
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.49495
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.5041
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.5011
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66419
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.49998
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781314,inceptionresnetv1,mean cosine similarty,0.50478
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66452
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66719
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66949
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.6626
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66655
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66495
+ct_steps120_alpha0.3_rr1.3_dp1.0_d7_comp_tmode_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66634
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49129
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.48958
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.48843
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49411
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49848
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49637
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49904
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50112
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49383
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49924
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49778
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49453
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50142
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.49771
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.506
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v1_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.48934
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50686
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50547
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50698
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50906
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51238
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50987
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51362
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.5137
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_comp_tmode_v3_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.5145
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50943
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51489
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50549
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51402
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.51119
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model01347813,inceptionresnetv1,mean cosine similarty,0.50683
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66094
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66069
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.65973
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.65732
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66216
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.6574
+ct_steps120_alpha0.25_rr1.3_dp1.0_d7_fixed_mask_v2_ori_mask_ord2_model0134781315,inceptionresnetv1,mean cosine similarty,0.66331

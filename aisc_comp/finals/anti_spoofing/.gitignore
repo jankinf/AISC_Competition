@@ -1,0 +1,7 @@
+__pycache__/
+*.pth.tar
+.DS_Store
+*.zip
+spoof_data
+logs/
+debug_load/

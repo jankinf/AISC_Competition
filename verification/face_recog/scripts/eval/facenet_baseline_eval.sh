@@ -1,0 +1,1 @@
+python -m eval.facenet_eval

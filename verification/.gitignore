@@ -1,0 +1,14 @@
+*.neupeak
+__pycache__/
+adv_data/
+*.pth.tar
+*.png
+*.jpg
+*.zip
+*.npz
+*.npy
+*.out
+*.log
+face_recog/megface-maps_834/data
+*.mp4
+*.deb
